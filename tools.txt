@@ -1,0 +1,32 @@
+1. Navigating the filesystem
+  - pwd
+  - ls
+  - cd 
+  - touch 
+  - mkdir 
+  - mv 
+  - cp 
+  - cat
+
+2. Text
+  - less
+  - grep
+  - (Pipes)
+  - cut
+  - (redirection < and >)
+  - VsCode (or vim...)
+
+3. Media
+  - view images (feh)
+  - spectogram (spek)
+  - GIMP
+  - image metadata (exiftool)
+  
+4. Binaries 
+  - file command
+  - embedded files (binwalk) 
+  - decode audio signals (minimodem)
+  - hidden stuff (steghide)
+  - strings
+
+RECOMMENDED: OVER THE WIRE BANDIT

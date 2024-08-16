@@ -1,0 +1,12 @@
+minimodem
+-> cat in.txt | minimodem --write <bpm> -f out.wav 
+-> minimodem --read <bpm> -f in.wav > out.txt
+
+grep
+-> cat logs.txt | grep --ignore-case wolvsec
+
+image:
+feh thunk.jpg
+exiftool thunk.jpg
+steghide extract -sf thunk.jpg
+binwalk --dd=".*" thunk.jpg

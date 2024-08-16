@@ -1,0 +1,1222 @@
+2024-08-16 03:44:05,319 37279 log_generator.py 145 log-generator DEBUG I would like you to be my guest at a 
+2024-08-16 03:44:05,903 37279 log_generator.py 145 log-generator DEBUG The princess! Put all sections on 
+2024-08-16 03:44:06,637 37279 log_generator.py 145 log-generator DEBUG INT. DEATH STAR - HALLWAY
+2024-08-16 03:44:07,592 37279 log_generator.py 145 log-generator DEBUG I don't think so, sir. I'm only a 
+2024-08-16 03:44:08,61 37279 log_generator.py 145 log-generator DEBUG this sort of thing.
+2024-08-16 03:44:08,515 37279 log_generator.py 145 log-generator DEBUG Chewbacca runs down the subhallway in a last-ditch attempt 
+2024-08-16 03:44:09,144 37279 log_generator.py 145 log-generator DEBUG operational we are vulnerable. The 
+2024-08-16 03:44:09,634 37279 log_generator.py 145 log-generator DEBUG VADER
+2024-08-16 03:44:10,146 37279 log_generator.py 145 log-generator DEBUG been checked out on the Incom T-sixty-
+2024-08-16 03:44:11,253 37279 log_generator.py 145 log-generator DEBUG Luke laughs and shakes his head in agreement. He heads for 
+2024-08-16 03:44:12,401 37279 log_generator.py 145 log-generator DEBUG to the little robot. After a few moments, he beeps something.
+2024-08-16 03:44:12,556 37279 log_generator.py 145 log-generator DEBUG Wait!
+2024-08-16 03:44:13,378 37279 log_generator.py 145 log-generator DEBUG is sitting on the deserted computer console. Artoo and 
+2024-08-16 03:44:14,113 37279 log_generator.py 145 log-generator DEBUG EXT. LUKE'S X-WING TRAVELING
+2024-08-16 03:44:14,723 37279 log_generator.py 145 log-generator DEBUG Unlock one-five-seven and nine. 
+2024-08-16 03:44:15,15 37279 log_generator.py 145 log-generator DEBUG Biggs, flying at high altitude, peels off and dives toward 
+2024-08-16 03:44:15,910 37279 log_generator.py 145 log-generator DEBUG time.
+2024-08-16 03:45:17,515 37925 log_generator.py 145 log-generator DEBUG CHIEF
+2024-08-16 03:45:17,527 37925 log_generator.py 145 log-generator DEBUG explodes. The door begins to slide shut. Three troopers charge 
+2024-08-16 03:45:17,544 37925 log_generator.py 145 log-generator DEBUG I'm only doing this because you're 
+2024-08-16 03:45:17,550 37925 log_generator.py 145 log-generator DEBUG RED ELEVEN
+2024-08-16 03:45:17,603 37925 log_generator.py 145 log-generator DEBUG I didn't know you were back! When 
+2024-08-16 03:45:17,661 37925 log_generator.py 145 log-generator DEBUG I'm amazed we're in as good condition 
+2024-08-16 03:45:17,781 37925 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:45:17,854 37925 log_generator.py 145 log-generator DEBUG with laserbolts.
+2024-08-16 03:45:17,928 37925 log_generator.py 145 log-generator DEBUG Luke climbs down the ladder into the gunport cockpit, settling 
+2024-08-16 03:45:18,119 37925 log_generator.py 145 log-generator DEBUG INT. GOLD FIVE'S Y-WING - COCKPIT
+2024-08-16 03:45:18,125 37925 log_generator.py 145 log-generator DEBUG Wait, Luke! It's too dangerous.
+2024-08-16 03:45:18,207 37925 log_generator.py 145 log-generator DEBUG Uh, you can call me Luke.
+2024-08-16 03:45:18,272 37925 log_generator.py 145 log-generator DEBUG the blow with his laser rifle, which is smashed to pieces. 
+2024-08-16 03:45:18,279 37925 log_generator.py 145 log-generator DEBUG EXT. SPACE AROUND THE DEATH STAR
+2024-08-16 03:45:18,357 37925 log_generator.py 145 log-generator DEBUG Red Ten looks around for the Imperial fighters.
+2024-08-16 03:45:18,383 37925 log_generator.py 145 log-generator DEBUG cell, Your Highness.
+2024-08-16 03:45:18,479 37925 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:45:18,545 37925 log_generator.py 145 log-generator DEBUG OWEN
+2024-08-16 03:45:18,639 37925 log_generator.py 145 log-generator DEBUG Ben reacts to Solo's stupid attempt to impress them with 
+2024-08-16 03:45:18,693 37925 log_generator.py 145 log-generator DEBUG I have a very bad feeling about this.
+2024-08-16 03:45:18,721 37925 log_generator.py 145 log-generator DEBUG boasting, we ought to do well.
+2024-08-16 03:45:18,778 37925 log_generator.py 145 log-generator DEBUG BIGGS
+2024-08-16 03:45:18,870 37925 log_generator.py 145 log-generator DEBUG INT. MILLENNIUM FALCON - GUNPORTS
+2024-08-16 03:45:18,995 37925 log_generator.py 145 log-generator DEBUG Well, things haven't been the same 
+2024-08-16 03:45:19,203 37925 log_generator.py 145 log-generator DEBUG already.
+2024-08-16 03:45:19,327 37925 log_generator.py 145 log-generator DEBUG precise hit will start a chain 
+2024-08-16 03:45:19,356 37925 log_generator.py 145 log-generator DEBUG stormtroopers into the air. Chewie follows his captain down 
+2024-08-16 03:45:19,543 37925 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:45:19,588 37925 log_generator.py 145 log-generator DEBUG Suddenly a door behind Ben slides open and a detachment of 
+2024-08-16 03:45:19,620 37925 log_generator.py 145 log-generator DEBUG Luke? Luke! Come to dinner!
+2024-08-16 03:45:19,707 37925 log_generator.py 145 log-generator DEBUG They aren't here! Something must 
+2024-08-16 03:45:19,813 37925 log_generator.py 145 log-generator DEBUG Han watches her start away. He looks at Luke.
+2024-08-16 03:45:19,899 37925 log_generator.py 145 log-generator DEBUG The fighter races past the Corellian pirateship.
+2024-08-16 03:45:19,952 37925 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:45:19,961 37925 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:45:20,7 37925 log_generator.py 145 log-generator DEBUG EXT. SURFACE OF THE DEATH STAR
+2024-08-16 03:45:20,92 37925 log_generator.py 145 log-generator DEBUG As Luke gets out of the speeder he tries to shoo the Jawa 
+2024-08-16 03:45:20,150 37925 log_generator.py 145 log-generator DEBUG you said this thing was fast.
+2024-08-16 03:45:20,245 37925 log_generator.py 145 log-generator DEBUG (yelling)
+2024-08-16 03:45:20,327 37925 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:45:20,360 37925 log_generator.py 145 log-generator DEBUG The stormtroopers scurry into the subhallways.
+2024-08-16 03:45:20,395 37925 log_generator.py 145 log-generator DEBUG room, as he runs away and then stops howling.
+2024-08-16 03:45:20,486 37925 log_generator.py 145 log-generator DEBUG to evil, helped the Empire hunt down 
+2024-08-16 03:45:20,583 37925 log_generator.py 145 log-generator DEBUG LEIA
+2024-08-16 03:45:20,635 37925 log_generator.py 145 log-generator DEBUG I did say so before!
+2024-08-16 03:45:20,730 37925 log_generator.py 145 log-generator DEBUG buffeted by Imperial flak.
+2024-08-16 03:45:20,736 37925 log_generator.py 145 log-generator DEBUG Chewbacca responds with a growling noise.
+2024-08-16 03:45:20,764 37925 log_generator.py 145 log-generator DEBUG me down, I shall become more powerful 
+2024-08-16 03:45:20,826 37925 log_generator.py 145 log-generator DEBUG want to learn the ways of the Force 
+2024-08-16 03:45:20,888 37925 log_generator.py 145 log-generator DEBUG Red Eleven standing by.
+2024-08-16 03:45:20,905 37925 log_generator.py 145 log-generator DEBUG heads for his ship, another pilot rushes up to him and grabs 
+2024-08-16 03:45:20,930 37925 log_generator.py 145 log-generator DEBUG (laughing)
+2024-08-16 03:45:21,23 37925 log_generator.py 145 log-generator DEBUG as a big smile sweeps across Luke's face at the success of 
+2024-08-16 03:45:21,190 37925 log_generator.py 145 log-generator DEBUG explosions.
+2024-08-16 03:45:21,281 37925 log_generator.py 145 log-generator DEBUG You're crazy! You could wander around 
+2024-08-16 03:45:21,301 37925 log_generator.py 145 log-generator DEBUG AUNT BERU
+2024-08-16 03:45:21,426 37925 log_generator.py 145 log-generator DEBUG they let us go. It's the only 
+2024-08-16 03:45:21,526 37925 log_generator.py 145 log-generator DEBUG Don't worry about it, Wormie.
+2024-08-16 03:45:21,631 37925 log_generator.py 145 log-generator DEBUG INT. BIGGS' COCKPIT
+2024-08-16 03:45:21,706 37925 log_generator.py 145 log-generator DEBUG INT. SANDCRAWLER - PRISON AREA
+2024-08-16 03:45:21,734 37925 log_generator.py 145 log-generator DEBUG Luke's hand reaches for the control panel and presses the 
+2024-08-16 03:45:21,824 37925 log_generator.py 145 log-generator DEBUG The stormtroopers look over at the booth but Luke and Ben 
+2024-08-16 03:45:21,828 37925 log_generator.py 145 log-generator DEBUG That isn't very reassuring.
+2024-08-16 03:45:21,883 37925 log_generator.py 145 log-generator DEBUG was just going to see your boss. 
+2024-08-16 03:45:21,919 37925 log_generator.py 145 log-generator DEBUG little fugitive until you've gotten 
+2024-08-16 03:45:21,958 37925 log_generator.py 145 log-generator DEBUG Luke takes a small comlink transmitter from his belt as they 
+2024-08-16 03:45:21,972 37925 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:45:21,982 37925 log_generator.py 145 log-generator DEBUG Don't just stand there. Try to brace 
+2024-08-16 03:45:22,15 37925 log_generator.py 145 log-generator DEBUG of this station. In a way, you have 
+2024-08-16 03:45:22,31 37925 log_generator.py 145 log-generator DEBUG All right.
+2024-08-16 03:45:22,83 37925 log_generator.py 145 log-generator DEBUG EXT. SURFACE OF THE DEATH STAR
+2024-08-16 03:45:22,164 37925 log_generator.py 145 log-generator DEBUG Luke manages a sheepish grin and shrugs his shoulders.
+2024-08-16 03:45:22,169 37925 log_generator.py 145 log-generator DEBUG Leader's X-wing drops down to the surface leading to the 
+2024-08-16 03:45:22,232 37925 log_generator.py 145 log-generator DEBUG ever closer to the system. A series of green dots appear 
+2024-08-16 03:45:22,297 37925 log_generator.py 145 log-generator DEBUG drinks. Ben moves to an empty spot at the bar near a group 
+2024-08-16 03:45:22,321 37925 log_generator.py 145 log-generator DEBUG GOLD FIVE
+2024-08-16 03:45:22,369 37925 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:45:22,398 37925 log_generator.py 145 log-generator DEBUG It's markings match those of a ship 
+2024-08-16 03:45:22,407 37925 log_generator.py 145 log-generator DEBUG (over headset)
+2024-08-16 03:45:22,418 37925 log_generator.py 145 log-generator DEBUG Han Solo enters the room.
+2024-08-16 03:45:22,450 37925 log_generator.py 145 log-generator DEBUG property of an Obi-Wan Kenobi. Is he 
+2024-08-16 03:45:22,452 37925 log_generator.py 145 log-generator DEBUG this sort of thing.
+2024-08-16 03:45:22,484 37925 log_generator.py 145 log-generator DEBUG a relative of yours? Do you know who 
+2024-08-16 03:45:22,494 37925 log_generator.py 145 log-generator DEBUG Han chases the stormtroopers down a long subhallway. He is 
+2024-08-16 03:45:22,592 37925 log_generator.py 145 log-generator DEBUG he fixes his gaze on Luke.
+2024-08-16 03:45:22,693 37925 log_generator.py 145 log-generator DEBUG Luke's ship barrels down the trench.
+2024-08-16 03:45:22,698 37925 log_generator.py 145 log-generator DEBUG is almost too much for Luke, but suddenly he snaps out of 
+2024-08-16 03:45:22,781 37925 log_generator.py 145 log-generator DEBUG than money.
+2024-08-16 03:45:22,791 37925 log_generator.py 145 log-generator DEBUG gladly donate them.
+2024-08-16 03:45:22,820 37925 log_generator.py 145 log-generator DEBUG Artoo answers with beeping sounds.
+2024-08-16 03:45:22,893 37925 log_generator.py 145 log-generator DEBUG surrounded by several tall moisture vaporators and one small 
+2024-08-16 03:45:22,948 37925 log_generator.py 145 log-generator DEBUG INT. MASSASSI - WAR ROOM BRIEFING AREA
+2024-08-16 03:45:23,1 37925 log_generator.py 145 log-generator DEBUG INT. PORKINS' COCKPIT
+2024-08-16 03:45:23,88 37925 log_generator.py 145 log-generator DEBUG WINGMAN
+2024-08-16 03:45:23,101 37925 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:45:23,148 37925 log_generator.py 145 log-generator DEBUG and cocksure.
+2024-08-16 03:45:23,272 37925 log_generator.py 145 log-generator DEBUG Stars circle as the pod rotates through the galaxy.
+2024-08-16 03:45:23,292 37925 log_generator.py 145 log-generator DEBUG talked about. Luke, I'm not going to 
+2024-08-16 03:45:23,376 37925 log_generator.py 145 log-generator DEBUG into the detention block?
+2024-08-16 03:45:23,429 37925 log_generator.py 145 log-generator DEBUG INT. LUKE'S X-WING FIGHTER - COCKPIT
+2024-08-16 03:45:23,491 37925 log_generator.py 145 log-generator DEBUG Red Five standing by.
+2024-08-16 03:45:23,548 37925 log_generator.py 145 log-generator DEBUG that he is fine.
+2024-08-16 03:45:23,579 37925 log_generator.py 145 log-generator DEBUG canyon, inadvertently making a loud clicking noise as he 
+2024-08-16 03:45:23,599 37925 log_generator.py 145 log-generator DEBUG has too much of his father in him.
+2024-08-16 03:45:23,666 37925 log_generator.py 145 log-generator DEBUG INT. MILLENNIUM FALCON - GUNPORTS
+2024-08-16 03:45:23,688 37925 log_generator.py 145 log-generator DEBUG Threepio lies on the floor of the ship, completely tangled 
+2024-08-16 03:45:23,715 37925 log_generator.py 145 log-generator DEBUG approaching. Estimated time to firing 
+2024-08-16 03:45:23,718 37925 log_generator.py 145 log-generator DEBUG hangar as the crewmen secure his little electronic partner 
+2024-08-16 03:45:23,732 37925 log_generator.py 145 log-generator DEBUG Okay. You guys got yourself a ship. 
+2024-08-16 03:45:23,832 37925 log_generator.py 145 log-generator DEBUG think I'd be fool enough to stick 
+2024-08-16 03:45:23,862 37925 log_generator.py 145 log-generator DEBUG they race toward camera and disappear over head.
+2024-08-16 03:45:23,922 37925 log_generator.py 145 log-generator DEBUG copy?
+2024-08-16 03:45:23,994 37925 log_generator.py 145 log-generator DEBUG below. For the first time, he feels the helplessness of his 
+2024-08-16 03:45:24,23 37925 log_generator.py 145 log-generator DEBUG that way.
+2024-08-16 03:45:24,121 37925 log_generator.py 145 log-generator DEBUG Threepio is seated in the hold area, next to Artoo-Detoo. 
+2024-08-16 03:45:24,188 37925 log_generator.py 145 log-generator DEBUG Ben Kenobi into the smoke-filled cantina. The murky, moldy 
+2024-08-16 03:45:24,253 37925 log_generator.py 145 log-generator DEBUG Muffled sounds of Luke's voice over the comlink can be heard, 
+2024-08-16 03:45:24,298 37925 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:45:24,372 37925 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:45:24,404 37925 log_generator.py 145 log-generator DEBUG father wanted you to have this when 
+2024-08-16 03:45:24,479 37925 log_generator.py 145 log-generator DEBUG EXT. SPACE
+2024-08-16 03:45:24,617 37925 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:45:24,672 37925 log_generator.py 145 log-generator DEBUG What makes you think there are 
+2024-08-16 03:45:24,707 37925 log_generator.py 145 log-generator DEBUG Blast 'em!
+2024-08-16 03:45:24,826 37925 log_generator.py 145 log-generator DEBUG is sitting on the deserted computer console. Artoo and 
+2024-08-16 03:45:24,916 37925 log_generator.py 145 log-generator DEBUG anything.
+2024-08-16 03:45:25,16 37925 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:45:25,292 37925 log_generator.py 145 log-generator DEBUG Vader's wingman panics at the sight of the oncoming pirate 
+2024-08-16 03:45:25,371 37925 log_generator.py 145 log-generator DEBUG INT. BIGGS' COCKPIT
+2024-08-16 03:45:25,380 37925 log_generator.py 145 log-generator DEBUG into the detention block?
+2024-08-16 03:45:25,386 37925 log_generator.py 145 log-generator DEBUG BEN'S VOICE
+2024-08-16 03:45:25,418 37925 log_generator.py 145 log-generator DEBUG Luke looks out the window of his X-wing at the explosion far 
+2024-08-16 03:45:25,508 37925 log_generator.py 145 log-generator DEBUG Pardon me for asking, sir, but what 
+2024-08-16 03:45:25,518 37925 log_generator.py 145 log-generator DEBUG stars begin streaking past, seem to decrease in speed, then 
+2024-08-16 03:45:25,670 37925 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:45:25,775 37925 log_generator.py 145 log-generator DEBUG homestead consisting of three large holes in the ground 
+2024-08-16 03:45:25,813 37925 log_generator.py 145 log-generator DEBUG restraining bolt back on, Threepio looks at him nervously.  
+2024-08-16 03:45:25,829 37925 log_generator.py 145 log-generator DEBUG Red Leader, we're right above you. 
+2024-08-16 03:45:25,926 37925 log_generator.py 145 log-generator DEBUG Use the Force, Luke.
+2024-08-16 03:45:25,932 37925 log_generator.py 145 log-generator DEBUG troopers hot on their trail.
+2024-08-16 03:45:26,64 37925 log_generator.py 145 log-generator DEBUG not much to tell. I'm not much more 
+2024-08-16 03:45:26,95 37925 log_generator.py 145 log-generator DEBUG (over speaker)
+2024-08-16 03:45:26,176 37925 log_generator.py 145 log-generator DEBUG metallic surface begin to become visible. A large dish antenna 
+2024-08-16 03:45:26,210 37925 log_generator.py 145 log-generator DEBUG TROOPER
+2024-08-16 03:45:26,258 37925 log_generator.py 145 log-generator DEBUG creatures. Luke turns and gives one last forlorn look at his 
+2024-08-16 03:45:26,266 37925 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:45:26,319 37925 log_generator.py 145 log-generator DEBUG TARKIN
+2024-08-16 03:45:26,500 37925 log_generator.py 145 log-generator DEBUG and starts after his old friend Threepio. He is restrained 
+2024-08-16 03:45:26,617 37925 log_generator.py 145 log-generator DEBUG With a little reluctance the scruffy dwarf trades the damaged 
+2024-08-16 03:45:26,633 37925 log_generator.py 145 log-generator DEBUG BIGGS
+2024-08-16 03:45:26,664 37925 log_generator.py 145 log-generator DEBUG property of an Obi-Wan Kenobi. Is he 
+2024-08-16 03:45:26,708 37925 log_generator.py 145 log-generator DEBUG BEN'S VOICE
+2024-08-16 03:45:26,736 37925 log_generator.py 145 log-generator DEBUG finds a small hatchway and struggles to get it open. It won't 
+2024-08-16 03:45:26,789 37925 log_generator.py 145 log-generator DEBUG What message? The one you're carrying 
+2024-08-16 03:45:26,852 37925 log_generator.py 145 log-generator DEBUG boasting, we ought to do well.
+2024-08-16 03:45:26,864 37925 log_generator.py 145 log-generator DEBUG It could be worse...
+2024-08-16 03:45:26,880 37925 log_generator.py 145 log-generator DEBUG RED LEADER
+2024-08-16 03:45:26,898 37925 log_generator.py 145 log-generator DEBUG Luke looks longingly at the lovely, little princess and hasn't 
+2024-08-16 03:45:26,938 37925 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:45:27,28 37925 log_generator.py 145 log-generator DEBUG I don't know what all the trouble is 
+2024-08-16 03:45:27,128 37925 log_generator.py 145 log-generator DEBUG I'm not going anywhere.
+2024-08-16 03:45:27,164 37925 log_generator.py 145 log-generator DEBUG and converges into a single laser beam out toward Alderaan. 
+2024-08-16 03:45:27,247 37925 log_generator.py 145 log-generator DEBUG Skywalker. I'm here to rescue you.
+2024-08-16 03:45:27,254 37925 log_generator.py 145 log-generator DEBUG pretty bad. Uncle Owen was pretty 
+2024-08-16 03:45:27,334 37925 log_generator.py 145 log-generator DEBUG OWEN
+2024-08-16 03:45:27,463 37925 log_generator.py 145 log-generator DEBUG A grim determination sweeps across Luke's face as he closes 
+2024-08-16 03:45:27,470 37925 log_generator.py 145 log-generator DEBUG Leia extends a long pipe toward him.
+2024-08-16 03:45:27,645 37925 log_generator.py 145 log-generator DEBUG hangar and hurry along a long line of gleaming spacefighters.  
+2024-08-16 03:45:27,705 37925 log_generator.py 145 log-generator DEBUG They're coming through!
+2024-08-16 03:45:27,863 37925 log_generator.py 145 log-generator DEBUG moving into an attack position in front of the lone 
+2024-08-16 03:45:27,875 37925 log_generator.py 145 log-generator DEBUG GOLD FIVE
+2024-08-16 03:45:27,963 37925 log_generator.py 145 log-generator DEBUG I don't have it with me. Tell Jabba...
+2024-08-16 03:45:28,2 37925 log_generator.py 145 log-generator DEBUG Darth Vader calmly adjusts his control stick as the stars 
+2024-08-16 03:45:28,156 37925 log_generator.py 145 log-generator DEBUG madly.
+2024-08-16 03:45:28,246 37925 log_generator.py 145 log-generator DEBUG never seen anything to make me believe 
+2024-08-16 03:45:28,275 37925 log_generator.py 145 log-generator DEBUG Grab him!
+2024-08-16 03:45:28,309 37925 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:45:28,334 37925 log_generator.py 145 log-generator DEBUG I seem to have found it.
+2024-08-16 03:45:28,365 37925 log_generator.py 145 log-generator DEBUG Evacuate? In out moment of triumph? 
+2024-08-16 03:45:28,400 37925 log_generator.py 145 log-generator DEBUG (to ship)
+2024-08-16 03:45:28,484 37925 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:45:28,558 37925 log_generator.py 145 log-generator DEBUG Now, don't you forget this! Why I 
+2024-08-16 03:45:28,644 37925 log_generator.py 145 log-generator DEBUG INTERCOM VOICE
+2024-08-16 03:45:28,741 37925 log_generator.py 145 log-generator DEBUG translator to be sure it speaks Bocce.
+2024-08-16 03:45:28,824 37925 log_generator.py 145 log-generator DEBUG Surely he must be dead by now.
+2024-08-16 03:45:28,901 37925 log_generator.py 145 log-generator DEBUG GOLD LEADER
+2024-08-16 03:45:28,987 37925 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:45:28,994 37925 log_generator.py 145 log-generator DEBUG stop. Suddenly the starship begins to shudder and violently 
+2024-08-16 03:45:29,63 37925 log_generator.py 145 log-generator DEBUG EXT. SURFACE OF DEATH STAR
+2024-08-16 03:45:29,68 37925 log_generator.py 145 log-generator DEBUG listening intently to what Dodonna is saying. Han and 
+2024-08-16 03:45:29,173 37925 log_generator.py 145 log-generator DEBUG fill of small computer chips.
+2024-08-16 03:45:29,253 37925 log_generator.py 145 log-generator DEBUG Princess Leia is led down a low-ceilinged hallway by a squad 
+2024-08-16 03:45:29,328 37925 log_generator.py 145 log-generator DEBUG transmitter.
+2024-08-16 03:45:29,396 37925 log_generator.py 145 log-generator DEBUG LEIA
+2024-08-16 03:45:29,451 37925 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:45:29,503 37925 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:45:29,566 37925 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:45:29,619 37925 log_generator.py 145 log-generator DEBUG waiting for?! Get in gear!
+2024-08-16 03:45:29,633 37925 log_generator.py 145 log-generator DEBUG Red Leader pats Luke on the back as they stop in front of 
+2024-08-16 03:45:29,744 37925 log_generator.py 145 log-generator DEBUG INT. DARTH VADER'S COCKPIT
+2024-08-16 03:45:29,780 37925 log_generator.py 145 log-generator DEBUG You're safe! We had feared the worst.
+2024-08-16 03:45:29,944 37925 log_generator.py 145 log-generator DEBUG gorge and it wraps itself around an outcropping of pipes. He 
+2024-08-16 03:45:30,26 37925 log_generator.py 145 log-generator DEBUG stops Luke and the robots.
+2024-08-16 03:45:30,97 37925 log_generator.py 145 log-generator DEBUG It must have gotten lost, been part 
+2024-08-16 03:45:30,163 37925 log_generator.py 145 log-generator DEBUG any more. He died about the same 
+2024-08-16 03:45:30,254 37925 log_generator.py 145 log-generator DEBUG GOLD LEADER
+2024-08-16 03:45:30,333 37925 log_generator.py 145 log-generator DEBUG INT. DARTH VADER'S COCKPIT
+2024-08-16 03:45:30,419 37925 log_generator.py 145 log-generator DEBUG by Han. The door to the pod-like vehicle slides closed and 
+2024-08-16 03:45:30,441 37925 log_generator.py 145 log-generator DEBUG in; they're going to try to cut us 
+2024-08-16 03:45:30,466 37925 log_generator.py 145 log-generator DEBUG we were dead.
+2024-08-16 03:45:30,498 37925 log_generator.py 145 log-generator DEBUG INT. BIGGS' COCKPIT
+2024-08-16 03:45:30,601 37925 log_generator.py 145 log-generator DEBUG DODONNA
+2024-08-16 03:45:30,632 37925 log_generator.py 145 log-generator DEBUG fifteen when we reach Alderaan.
+2024-08-16 03:45:30,674 37925 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:45:30,752 37925 log_generator.py 145 log-generator DEBUG Luke hasn't really been listening.
+2024-08-16 03:45:30,830 37925 log_generator.py 145 log-generator DEBUG race past the huge doors just as they are closing, and manage 
+2024-08-16 03:45:30,834 37925 log_generator.py 145 log-generator DEBUG firing upon the Falcon.
+2024-08-16 03:45:30,890 37925 log_generator.py 145 log-generator DEBUG Jawas walks ahead of the farmer spouting an animated sales 
+2024-08-16 03:45:30,958 37925 log_generator.py 145 log-generator DEBUG Get back to the ship!
+2024-08-16 03:45:30,963 37925 log_generator.py 145 log-generator DEBUG Is the ship all right?
+2024-08-16 03:45:31,62 37925 log_generator.py 145 log-generator DEBUG Before even thinking, Han draws his laser pistol and charges 
+2024-08-16 03:45:31,151 37925 log_generator.py 145 log-generator DEBUG Owen breaks loose with a fit of uncontrolled anger.
+2024-08-16 03:45:31,228 37925 log_generator.py 145 log-generator DEBUG out what happened to us.
+2024-08-16 03:45:31,240 37925 log_generator.py 145 log-generator DEBUG Yes, indeed. If it's a fast ship.
+2024-08-16 03:45:31,323 37925 log_generator.py 145 log-generator DEBUG application. There has been a lot of 
+2024-08-16 03:45:31,509 37925 log_generator.py 145 log-generator DEBUG You see, you can do it.
+2024-08-16 03:45:31,585 37925 log_generator.py 145 log-generator DEBUG put a price on your head, so large 
+2024-08-16 03:45:31,631 37925 log_generator.py 145 log-generator DEBUG mind.
+2024-08-16 03:45:31,650 37925 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:45:31,712 37925 log_generator.py 145 log-generator DEBUG stardestroyers.
+2024-08-16 03:45:31,788 37925 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:45:31,870 37925 log_generator.py 145 log-generator DEBUG INT. REBEL BLOCKADE RUNNER
+2024-08-16 03:45:31,889 37925 log_generator.py 145 log-generator DEBUG troops rush toward the battling knights.
+2024-08-16 03:45:32,71 37925 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:45:32,162 37925 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:45:32,211 37925 log_generator.py 145 log-generator DEBUG INTERCOM VOICE
+2024-08-16 03:45:32,269 37925 log_generator.py 145 log-generator DEBUG If they traced the robots here, they 
+2024-08-16 03:45:32,318 37925 log_generator.py 145 log-generator DEBUG Willard composes himself, steps back and bows formally.
+2024-08-16 03:45:32,371 37925 log_generator.py 145 log-generator DEBUG his comlink is not working. The gantry officer shakes his 
+2024-08-16 03:45:32,404 37925 log_generator.py 145 log-generator DEBUG No one in the hallway seems to notice him.
+2024-08-16 03:45:32,453 37925 log_generator.py 145 log-generator DEBUG INT. LARS HOMESTEAD - GARAGE
+2024-08-16 03:45:32,537 37925 log_generator.py 145 log-generator DEBUG Unlock one-five-seven and nine. 
+2024-08-16 03:45:32,621 37925 log_generator.py 145 log-generator DEBUG Luke, I'm shutting the power down 
+2024-08-16 03:45:32,779 37925 log_generator.py 145 log-generator DEBUG The exhaust post is...
+2024-08-16 03:45:32,848 37925 log_generator.py 145 log-generator DEBUG There aren't any bases around here. 
+2024-08-16 03:45:32,958 37925 log_generator.py 145 log-generator DEBUG This bickering is pointless. Lord 
+2024-08-16 03:45:33,27 37925 log_generator.py 145 log-generator DEBUG Luke pushes his half-eaten plate of food aside and stands.
+2024-08-16 03:45:33,111 37925 log_generator.py 145 log-generator DEBUG The clacking sound of huge switching devices can be heard. 
+2024-08-16 03:45:33,177 37925 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:45:33,181 37925 log_generator.py 145 log-generator DEBUG see something with the naked eye. Through the binoculars 
+2024-08-16 03:45:33,273 37925 log_generator.py 145 log-generator DEBUG Luke! I don't believe it! How'd you 
+2024-08-16 03:45:33,276 37925 log_generator.py 145 log-generator DEBUG Are you all right? What's wrong?
+2024-08-16 03:45:33,335 37925 log_generator.py 145 log-generator DEBUG VADER
+2024-08-16 03:45:33,383 37925 log_generator.py 145 log-generator DEBUG TROOPER
+2024-08-16 03:45:33,470 37925 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:45:33,542 37925 log_generator.py 145 log-generator DEBUG ships with more fire power than 
+2024-08-16 03:45:33,609 37925 log_generator.py 145 log-generator DEBUG come see me yourself.
+2024-08-16 03:45:33,614 37925 log_generator.py 145 log-generator DEBUG laserbolts.
+2024-08-16 03:45:33,658 37925 log_generator.py 145 log-generator DEBUG Luke's hand reaches for the control panel and presses the 
+2024-08-16 03:45:33,810 37925 log_generator.py 145 log-generator DEBUG circuited.
+2024-08-16 03:45:33,824 37925 log_generator.py 145 log-generator DEBUG EXT. SPACE AROUND THE DEATH STAR
+2024-08-16 03:45:33,843 37925 log_generator.py 145 log-generator DEBUG I hope the old man got that tractor 
+2024-08-16 03:45:33,861 37925 log_generator.py 145 log-generator DEBUG Red Ten standing by.
+2024-08-16 03:45:33,959 37925 log_generator.py 145 log-generator DEBUG or there'll be hell to pay!
+2024-08-16 03:45:34,76 37925 log_generator.py 145 log-generator DEBUG care of yourself, you'll always be 
+2024-08-16 03:45:34,106 37925 log_generator.py 145 log-generator DEBUG INT. LUKE'S X-WING - COCKPIT - TRAVELING
+2024-08-16 03:45:34,216 37925 log_generator.py 145 log-generator DEBUG TARKIN
+2024-08-16 03:45:34,270 37925 log_generator.py 145 log-generator DEBUG a dive at Luke and, incredibly, he managed to deflect the 
+2024-08-16 03:45:34,352 37925 log_generator.py 145 log-generator DEBUG Vader squeezes the neck of the Rebel Officer, who struggles 
+2024-08-16 03:45:34,354 37925 log_generator.py 145 log-generator DEBUG Alderaan looms behind the Death Star battlestation.
+2024-08-16 03:45:34,446 37925 log_generator.py 145 log-generator DEBUG Vader adjusts his control stick.
+2024-08-16 03:45:34,595 37925 log_generator.py 145 log-generator DEBUG coordinates from the navi-computer.
+2024-08-16 03:45:34,619 37925 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:45:34,673 37925 log_generator.py 145 log-generator DEBUG Got him! I got him!
+2024-08-16 03:45:34,764 37925 log_generator.py 145 log-generator DEBUG RED LEADER
+2024-08-16 03:45:34,853 37925 log_generator.py 145 log-generator DEBUG stubby claw hand, causing one of the holographic creatures 
+2024-08-16 03:45:34,861 37925 log_generator.py 145 log-generator DEBUG Then I guess I won't see you.
+2024-08-16 03:45:34,881 37925 log_generator.py 145 log-generator DEBUG INT. MASSASSI - MAIN HANGAR DECK
+2024-08-16 03:45:34,889 37925 log_generator.py 145 log-generator DEBUG and in a flash an arm lies on the floor. The rodent is cut 
+2024-08-16 03:45:35,15 37925 log_generator.py 145 log-generator DEBUG all this. Chewbacca rushes up the ramp and urges the others 
+2024-08-16 03:45:35,163 37925 log_generator.py 145 log-generator DEBUG the enormous Sandcrawler, which is parked beside a small 
+2024-08-16 03:45:35,257 37925 log_generator.py 145 log-generator DEBUG transmitter. I'll see what I can do.
+2024-08-16 03:45:35,282 37925 log_generator.py 145 log-generator DEBUG Uncle Owen, his voice echoing throughout the homestead.
+2024-08-16 03:45:35,457 37925 log_generator.py 145 log-generator DEBUG During the battle, Rebel spies managed to steal 
+2024-08-16 03:45:35,504 37925 log_generator.py 145 log-generator DEBUG location of the Rebel fortress by 
+2024-08-16 03:45:35,574 37925 log_generator.py 145 log-generator DEBUG continue to exchange fire with stormtroopers making their 
+2024-08-16 03:45:35,630 37925 log_generator.py 145 log-generator DEBUG readout. The low-ceilinged room is filled with starpilots, 
+2024-08-16 03:45:35,669 37925 log_generator.py 145 log-generator DEBUG old and battered. Artoo is a short, claw-armed tripod. His 
+2024-08-16 03:45:35,765 37925 log_generator.py 145 log-generator DEBUG INT. LUKE'S X-WING FIGHTER - COCKPIT
+2024-08-16 03:45:35,784 37925 log_generator.py 145 log-generator DEBUG down the side of the mountain.
+2024-08-16 03:45:35,823 37925 log_generator.py 145 log-generator DEBUG BEN'S VOICE
+2024-08-16 03:45:35,902 37925 log_generator.py 145 log-generator DEBUG Come along, Artoo.
+2024-08-16 03:45:35,919 37925 log_generator.py 145 log-generator DEBUG I copy, Gold Five.
+2024-08-16 03:45:36,11 37925 log_generator.py 145 log-generator DEBUG Owen is negotiating with the head Jawa. Luke and the two 
+2024-08-16 03:45:36,30 37925 log_generator.py 145 log-generator DEBUG (to Vader)
+2024-08-16 03:45:36,31 37925 log_generator.py 145 log-generator DEBUG blows is blocked, then countered. Ben moves around the Dark 
+2024-08-16 03:45:36,125 37925 log_generator.py 145 log-generator DEBUG princess in his arms. Leia looks at Luke, then kisses him 
+2024-08-16 03:45:36,210 37925 log_generator.py 145 log-generator DEBUG How are you?
+2024-08-16 03:45:36,307 37925 log_generator.py 145 log-generator DEBUG the youth then the other. Suddenly it makes a lightning-swift 
+2024-08-16 03:45:36,394 37925 log_generator.py 145 log-generator DEBUG A concerned Princess Leia, Threepio, Dodonna, and other 
+2024-08-16 03:45:36,498 37925 log_generator.py 145 log-generator DEBUG Vader takes aim on Luke and talks to the wingmen.
+2024-08-16 03:45:36,631 37925 log_generator.py 145 log-generator DEBUG port, then fires his laser torpedoes.
+2024-08-16 03:45:36,645 37925 log_generator.py 145 log-generator DEBUG Kid, I've flown from one side of 
+2024-08-16 03:45:36,779 37925 log_generator.py 145 log-generator DEBUG and a small dark figure darts into the shadows. A little 
+2024-08-16 03:45:36,874 37925 log_generator.py 145 log-generator DEBUG knicking one of his wings close to the engine.
+2024-08-16 03:45:37,23 37925 log_generator.py 145 log-generator DEBUG outlandish creatures, doesn't quite catch the bartender's 
+2024-08-16 03:45:37,27 37925 log_generator.py 145 log-generator DEBUG hot shot. I thought you'd be here... 
+2024-08-16 03:45:37,97 37925 log_generator.py 145 log-generator DEBUG direction somewhere, but I don't see 
+2024-08-16 03:45:37,222 37925 log_generator.py 145 log-generator DEBUG Suddenly a door behind Ben slides open and a detachment of 
+2024-08-16 03:45:37,235 37925 log_generator.py 145 log-generator DEBUG robots enter the room quickly followed by Luke, also dressed 
+2024-08-16 03:45:37,273 37925 log_generator.py 145 log-generator DEBUG fault.
+2024-08-16 03:45:37,279 37925 log_generator.py 145 log-generator DEBUG Old Ben leans back and scratches his head. He silently puffs 
+2024-08-16 03:45:37,293 37925 log_generator.py 145 log-generator DEBUG five?
+2024-08-16 03:45:37,301 37925 log_generator.py 145 log-generator DEBUG OFFICER
+2024-08-16 03:45:37,367 37925 log_generator.py 145 log-generator DEBUG smiling, fires the laser cannon at it, scoring a spectacular 
+2024-08-16 03:45:37,432 37925 log_generator.py 145 log-generator DEBUG An X-wing zooms across the surface of the Death Star.
+2024-08-16 03:45:37,492 37925 log_generator.py 145 log-generator DEBUG (over intercom)
+2024-08-16 03:45:37,558 37925 log_generator.py 145 log-generator DEBUG EXT. SURFACE OF DEATH STAR
+2024-08-16 03:45:37,637 37925 log_generator.py 145 log-generator DEBUG INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL
+2024-08-16 03:45:37,759 37925 log_generator.py 145 log-generator DEBUG Luke stands in the middle of the small hold area; he seems 
+2024-08-16 03:45:37,796 37925 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:45:37,820 37925 log_generator.py 145 log-generator DEBUG Thanks, Wedge.
+2024-08-16 03:45:37,847 37925 log_generator.py 145 log-generator DEBUG VADER
+2024-08-16 03:45:37,939 37925 log_generator.py 145 log-generator DEBUG were to rescue her, the reward would 
+2024-08-16 03:45:38,77 37925 log_generator.py 145 log-generator DEBUG front porthole. the X-wings show in the center of Vader's 
+2024-08-16 03:45:38,106 37925 log_generator.py 145 log-generator DEBUG INT. MILLENNIUM FALCON - COCKPIT
+2024-08-16 03:45:38,218 37925 log_generator.py 145 log-generator DEBUG Well, not unless you can alter time, 
+2024-08-16 03:45:38,310 37925 log_generator.py 145 log-generator DEBUG Luke's Aunt Beru, a warm, motherly woman, fills a pitcher 
+2024-08-16 03:45:38,379 37925 log_generator.py 145 log-generator DEBUG TARKIN
+2024-08-16 03:45:38,430 37925 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:45:38,517 37925 log_generator.py 145 log-generator DEBUG beep causing Luke to remember something. He looks around.
+2024-08-16 03:45:38,554 37925 log_generator.py 145 log-generator DEBUG and there is a danger. Should I have 
+2024-08-16 03:45:38,626 37925 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:45:38,758 37925 log_generator.py 145 log-generator DEBUG Solo, Chewie, Luke, and Leia tensely watch the duel. The 
+2024-08-16 03:45:38,845 37925 log_generator.py 145 log-generator DEBUG know a few maneuvers. We'll lose 
+2024-08-16 03:45:38,897 37925 log_generator.py 145 log-generator DEBUG It's the ship that made the Kessel 
+2024-08-16 03:45:38,996 37925 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:45:39,56 37925 log_generator.py 145 log-generator DEBUG Stretch out with your feelings.
+2024-08-16 03:45:39,142 37925 log_generator.py 145 log-generator DEBUG INT. DEATH STAR - CONTROL ROOM
+2024-08-16 03:45:39,188 37925 log_generator.py 145 log-generator DEBUG concern is to prepare the new droids 
+2024-08-16 03:45:39,189 37925 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:45:39,239 37925 log_generator.py 145 log-generator DEBUG tiny opening. Luke and Han continue firing as they work their 
+2024-08-16 03:45:39,322 37925 log_generator.py 145 log-generator DEBUG The fighter pilot watches Wedge's X-wing approach. Another X-
+2024-08-16 03:45:39,345 37925 log_generator.py 145 log-generator DEBUG VADER
+2024-08-16 03:45:39,392 37925 log_generator.py 145 log-generator DEBUG During the battle, Rebel spies managed to steal 
+2024-08-16 03:45:39,468 37925 log_generator.py 145 log-generator DEBUG Well, he'd better have those units 
+2024-08-16 03:45:39,531 37925 log_generator.py 145 log-generator DEBUG Well of course, of course I know 
+2024-08-16 03:45:39,581 37925 log_generator.py 145 log-generator DEBUG precarious.
+2024-08-16 03:45:39,686 37925 log_generator.py 145 log-generator DEBUG Can you see Red Five?
+2024-08-16 03:45:39,713 37925 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:45:39,728 37925 log_generator.py 145 log-generator DEBUG VADER
+2024-08-16 03:45:39,793 37925 log_generator.py 145 log-generator DEBUG year.
+2024-08-16 03:45:39,854 37925 log_generator.py 145 log-generator DEBUG The three TIE fighters race along in the trench in a tight 
+2024-08-16 03:45:39,905 37925 log_generator.py 145 log-generator DEBUG TARKIN
+2024-08-16 03:45:40,12 37925 log_generator.py 145 log-generator DEBUG surveying the countryside. A mist hangs over the jungle of 
+2024-08-16 03:45:40,49 37925 log_generator.py 145 log-generator DEBUG Leia races home aboard her starship, custodian of 
+2024-08-16 03:45:40,99 37925 log_generator.py 145 log-generator DEBUG Dark Lord begins to squeeze the officer's throat, creating a 
+2024-08-16 03:45:40,260 37925 log_generator.py 145 log-generator DEBUG to save his bold captain. Suddenly he hears the firing of 
+2024-08-16 03:45:40,361 37925 log_generator.py 145 log-generator DEBUG VADER
+2024-08-16 03:45:40,419 37925 log_generator.py 145 log-generator DEBUG numbers, occasionally exploding near the ship causing it to 
+2024-08-16 03:45:40,518 37925 log_generator.py 145 log-generator DEBUG Leia and the others listen to Solo's transmission.
+2024-08-16 03:45:40,572 37925 log_generator.py 145 log-generator DEBUG CAPTAIN
+2024-08-16 03:46:42,119 38663 log_generator.py 145 log-generator DEBUG your blasting everything in sight, 
+2024-08-16 03:46:42,179 38663 log_generator.py 145 log-generator DEBUG know a few maneuvers. We'll lose 
+2024-08-16 03:46:42,255 38663 log_generator.py 145 log-generator DEBUG The three TIE fighters move in formation across the Death 
+2024-08-16 03:46:42,397 38663 log_generator.py 145 log-generator DEBUG What a piece of junk.
+2024-08-16 03:46:42,418 38663 log_generator.py 145 log-generator DEBUG INT. DARTH VADER'S COCKPIT
+2024-08-16 03:46:42,474 38663 log_generator.py 145 log-generator DEBUG Sandpeople fleeing in terror.
+2024-08-16 03:46:42,498 38663 log_generator.py 145 log-generator DEBUG anything.
+2024-08-16 03:46:42,606 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:46:42,775 38663 log_generator.py 145 log-generator DEBUG Artoo beeps something to Threepio.
+2024-08-16 03:46:42,876 38663 log_generator.py 145 log-generator DEBUG The Millennium Falcon heads right at the two TIE fighters.  
+2024-08-16 03:46:42,896 38663 log_generator.py 145 log-generator DEBUG They aren't here! Something must 
+2024-08-16 03:46:42,955 38663 log_generator.py 145 log-generator DEBUG And hope they don't have blasters.
+2024-08-16 03:46:43,109 38663 log_generator.py 145 log-generator DEBUG Take over. We've got a bad 
+2024-08-16 03:46:43,203 38663 log_generator.py 145 log-generator DEBUG Uncle Owen...
+2024-08-16 03:46:43,219 38663 log_generator.py 145 log-generator DEBUG Artoo and Threepio look out at the receding Imperial starship.  
+2024-08-16 03:46:43,271 38663 log_generator.py 145 log-generator DEBUG the surface, some on the towers.
+2024-08-16 03:46:43,359 38663 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:46:43,424 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:46:43,460 38663 log_generator.py 145 log-generator DEBUG going to feel so good. I've got such 
+2024-08-16 03:46:43,495 38663 log_generator.py 145 log-generator DEBUG Obi-Wan is here. The Force is with 
+2024-08-16 03:46:43,556 38663 log_generator.py 145 log-generator DEBUG I'm hit, but not bad.
+2024-08-16 03:46:43,588 38663 log_generator.py 145 log-generator DEBUG As Luke begins to climb up the ladder into his sleek, deadly 
+2024-08-16 03:46:43,754 38663 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:46:43,779 38663 log_generator.py 145 log-generator DEBUG Alderaan has failed. I have placed 
+2024-08-16 03:46:43,787 38663 log_generator.py 145 log-generator DEBUG EXT. SPACE AROUND THE DEATH STAR
+2024-08-16 03:46:43,814 38663 log_generator.py 145 log-generator DEBUG officer)
+2024-08-16 03:46:43,899 38663 log_generator.py 145 log-generator DEBUG Stormtroopers can be heard battling in the distance.
+2024-08-16 03:46:44,13 38663 log_generator.py 145 log-generator DEBUG SPEEDER LOT
+2024-08-16 03:46:44,63 38663 log_generator.py 145 log-generator DEBUG INT. MILLENNIUM FALCON - GUNPORTS
+2024-08-16 03:46:44,192 38663 log_generator.py 145 log-generator DEBUG Secure this area until the alert is 
+2024-08-16 03:46:44,267 38663 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:46:44,316 38663 log_generator.py 145 log-generator DEBUG Luke concentrates on his targeting device.
+2024-08-16 03:46:44,365 38663 log_generator.py 145 log-generator DEBUG EXT. TATOOINE - ROCK CANYON - FLOOR - DAY
+2024-08-16 03:46:44,385 38663 log_generator.py 145 log-generator DEBUG Harvest is when I need you the most. 
+2024-08-16 03:46:44,468 38663 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:46:44,536 38663 log_generator.py 145 log-generator DEBUG moisture vaporators.
+2024-08-16 03:46:44,599 38663 log_generator.py 145 log-generator DEBUG tugs on the rope to make sure it is secure, then grabs the 
+2024-08-16 03:46:44,690 38663 log_generator.py 145 log-generator DEBUG The Rebel ships race toward the fourth moon of Yavin.
+2024-08-16 03:46:44,899 38663 log_generator.py 145 log-generator DEBUG Red Leader, this is Base One. Keep 
+2024-08-16 03:46:44,959 38663 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:46:44,964 38663 log_generator.py 145 log-generator DEBUG EXT. MASSASSI OUTPOST - JUNGLE
+2024-08-16 03:46:44,971 38663 log_generator.py 145 log-generator DEBUG Luke, Ben, Threepio, and Artoo move toward the Millennium 
+2024-08-16 03:46:45,117 38663 log_generator.py 145 log-generator DEBUG Owen pays off the whining Jawa as Luke and the two robots 
+2024-08-16 03:46:45,208 38663 log_generator.py 145 log-generator DEBUG (to Luke)
+2024-08-16 03:46:45,385 38663 log_generator.py 145 log-generator DEBUG officer giving orders finally fade. Two floor panels suddenly 
+2024-08-16 03:46:45,504 38663 log_generator.py 145 log-generator DEBUG just a boy, he was a great pilot. 
+2024-08-16 03:46:45,505 38663 log_generator.py 145 log-generator DEBUG (to Artoo)
+2024-08-16 03:46:45,567 38663 log_generator.py 145 log-generator DEBUG Red Leader roams down the trench of the Death Star as lasers 
+2024-08-16 03:46:45,656 38663 log_generator.py 145 log-generator DEBUG spaceship, the crew chief, who is working on the craft, points 
+2024-08-16 03:46:45,754 38663 log_generator.py 145 log-generator DEBUG the attack lever as the board behind him lights up.
+2024-08-16 03:46:45,760 38663 log_generator.py 145 log-generator DEBUG Accelerate to attack speed. This is 
+2024-08-16 03:46:45,823 38663 log_generator.py 145 log-generator DEBUG the massive structure. Many soldiers rush about in the smoke 
+2024-08-16 03:46:45,995 38663 log_generator.py 145 log-generator DEBUG Oh, it's Han! I don't know, I really 
+2024-08-16 03:46:46,10 38663 log_generator.py 145 log-generator DEBUG These are the same Jawas that sold 
+2024-08-16 03:46:46,36 38663 log_generator.py 145 log-generator DEBUG alien creatures and monsters at the long metallic bar. At 
+2024-08-16 03:46:46,79 38663 log_generator.py 145 log-generator DEBUG If the ship's as fast as he's 
+2024-08-16 03:46:46,99 38663 log_generator.py 145 log-generator DEBUG The victorious Millennium Falcon moves off majestically 
+2024-08-16 03:46:46,180 38663 log_generator.py 145 log-generator DEBUG floor. Four armed stormtroopers enter the chamber.
+2024-08-16 03:46:46,210 38663 log_generator.py 145 log-generator DEBUG WINGMAN
+2024-08-16 03:46:46,220 38663 log_generator.py 145 log-generator DEBUG EXT. LUKE'S X-WING FIGHTER
+2024-08-16 03:46:46,350 38663 log_generator.py 145 log-generator DEBUG them precariously perched on a short piece of bridge overhang.  
+2024-08-16 03:46:46,413 38663 log_generator.py 145 log-generator DEBUG this gets out, it could generate 
+2024-08-16 03:46:46,514 38663 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:46:46,522 38663 log_generator.py 145 log-generator DEBUG An officer reaches up and pushes buttons on the control panel, 
+2024-08-16 03:46:46,564 38663 log_generator.py 145 log-generator DEBUG The rock and sand of the desert floor are a blur as Threepio 
+2024-08-16 03:46:46,689 38663 log_generator.py 145 log-generator DEBUG The princess jumps up and gives Chewie a congratulatory hug.
+2024-08-16 03:46:46,782 38663 log_generator.py 145 log-generator DEBUG The Force?
+2024-08-16 03:46:46,808 38663 log_generator.py 145 log-generator DEBUG INT. MILLENNIUM FALCON - GUNPORTS - COCKPIT
+2024-08-16 03:46:46,872 38663 log_generator.py 145 log-generator DEBUG as laserbolts streak past on all sides.
+2024-08-16 03:46:46,902 38663 log_generator.py 145 log-generator DEBUG Luke fires his pistol at the door control panel, and it 
+2024-08-16 03:46:46,996 38663 log_generator.py 145 log-generator DEBUG lock it down!
+2024-08-16 03:46:47,69 38663 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:46:47,165 38663 log_generator.py 145 log-generator DEBUG Gold Leader approaches the surface and pulls out to skim the 
+2024-08-16 03:46:47,184 38663 log_generator.py 145 log-generator DEBUG VADER
+2024-08-16 03:46:47,189 38663 log_generator.py 145 log-generator DEBUG INT. MILLENNIUM FALCON - GUNPORTS
+2024-08-16 03:46:47,262 38663 log_generator.py 145 log-generator DEBUG ship as Chewie adjusts his controls.
+2024-08-16 03:46:47,361 38663 log_generator.py 145 log-generator DEBUG Luke stumbles around in a daze looking for his aunt and uncle. 
+2024-08-16 03:46:47,440 38663 log_generator.py 145 log-generator DEBUG dive toward the Death Star.
+2024-08-16 03:46:47,657 38663 log_generator.py 145 log-generator DEBUG Look! Did you see that?
+2024-08-16 03:46:47,692 38663 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:46:47,704 38663 log_generator.py 145 log-generator DEBUG Han reaches for controls.
+2024-08-16 03:46:47,746 38663 log_generator.py 145 log-generator DEBUG The startled guards are momentarily dumbfounded. Luke and 
+2024-08-16 03:46:47,798 38663 log_generator.py 145 log-generator DEBUG appear on another overhang, also firing. A trooper is hit, 
+2024-08-16 03:46:48,1 38663 log_generator.py 145 log-generator DEBUG Luke, Luke, grab a hold of this.
+2024-08-16 03:46:48,229 38663 log_generator.py 145 log-generator DEBUG Okay, let's go.
+2024-08-16 03:46:48,292 38663 log_generator.py 145 log-generator DEBUG wingman.
+2024-08-16 03:46:48,328 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:46:48,528 38663 log_generator.py 145 log-generator DEBUG up, and one day, whammo, you're going 
+2024-08-16 03:46:48,636 38663 log_generator.py 145 log-generator DEBUG TECHNICIAN
+2024-08-16 03:46:48,643 38663 log_generator.py 145 log-generator DEBUG AREA
+2024-08-16 03:46:48,654 38663 log_generator.py 145 log-generator DEBUG to pick us up...
+2024-08-16 03:46:48,829 38663 log_generator.py 145 log-generator DEBUG He says "I found her", and keeps 
+2024-08-16 03:46:48,868 38663 log_generator.py 145 log-generator DEBUG torpedoes.
+2024-08-16 03:46:48,905 38663 log_generator.py 145 log-generator DEBUG INT. GOLD LEADER'S Y-WING - COCKPIT
+2024-08-16 03:46:48,984 38663 log_generator.py 145 log-generator DEBUG think I'd be fool enough to stick 
+2024-08-16 03:46:49,64 38663 log_generator.py 145 log-generator DEBUG Gold Five moves in on the exhaust port.
+2024-08-16 03:46:49,115 38663 log_generator.py 145 log-generator DEBUG desperate hour. Help me, Obi-Wan 
+2024-08-16 03:46:49,200 38663 log_generator.py 145 log-generator DEBUG Now let's blow this thing and go 
+2024-08-16 03:46:49,232 38663 log_generator.py 145 log-generator DEBUG INT. BIGGS' COCKPIT
+2024-08-16 03:46:49,255 38663 log_generator.py 145 log-generator DEBUG I've got a very bad feeling about 
+2024-08-16 03:46:49,267 38663 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:46:49,270 38663 log_generator.py 145 log-generator DEBUG I think you should deactivate the 
+2024-08-16 03:46:49,299 38663 log_generator.py 145 log-generator DEBUG at it.
+2024-08-16 03:46:49,428 38663 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:46:49,574 38663 log_generator.py 145 log-generator DEBUG END CREDITS OVER STARS
+2024-08-16 03:46:49,650 38663 log_generator.py 145 log-generator DEBUG Governor Tarkin, who stands before the huge wall screen 
+2024-08-16 03:46:49,700 38663 log_generator.py 145 log-generator DEBUG Oh, I think I just blasted it.
+2024-08-16 03:46:49,745 38663 log_generator.py 145 log-generator DEBUG to make sure they're gone, then runs down the hallway in the 
+2024-08-16 03:46:49,820 38663 log_generator.py 145 log-generator DEBUG troops, who all bow before them. Chewbacca growls and Artoo 
+2024-08-16 03:46:49,865 38663 log_generator.py 145 log-generator DEBUG (over headset)
+2024-08-16 03:46:49,883 38663 log_generator.py 145 log-generator DEBUG to this point. The target area is 
+2024-08-16 03:46:49,945 38663 log_generator.py 145 log-generator DEBUG You'll do all right. If you've got 
+2024-08-16 03:46:50,34 38663 log_generator.py 145 log-generator DEBUG INT. DEATH STAR - SUBHALLWAY
+2024-08-16 03:46:50,72 38663 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:46:50,126 38663 log_generator.py 145 log-generator DEBUG GOLD LEADER
+2024-08-16 03:46:50,188 38663 log_generator.py 145 log-generator DEBUG We don't need to see his 
+2024-08-16 03:46:50,209 38663 log_generator.py 145 log-generator DEBUG is too remote to make an effective 
+2024-08-16 03:46:50,559 38663 log_generator.py 145 log-generator DEBUG pirateship, a Gantry Officer looks out his window and notices 
+2024-08-16 03:46:50,573 38663 log_generator.py 145 log-generator DEBUG him alone.
+2024-08-16 03:46:50,748 38663 log_generator.py 145 log-generator DEBUG off in the direction of the rocky desert mesas. Threepio 
+2024-08-16 03:46:50,854 38663 log_generator.py 145 log-generator DEBUG ...I just came to say good-bye to 
+2024-08-16 03:46:50,927 38663 log_generator.py 145 log-generator DEBUG No blasters! No blaster!
+2024-08-16 03:46:51,130 38663 log_generator.py 145 log-generator DEBUG right through a star or bounce too 
+2024-08-16 03:46:51,238 38663 log_generator.py 145 log-generator DEBUG (yelling)
+2024-08-16 03:46:51,297 38663 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:46:51,381 38663 log_generator.py 145 log-generator DEBUG Biggs has an air of cool that seems slightly phony.
+2024-08-16 03:46:51,476 38663 log_generator.py 145 log-generator DEBUG Kenobi, a resident of these parts. 
+2024-08-16 03:46:51,513 38663 log_generator.py 145 log-generator DEBUG way into the blinding light of the main passageway. This is 
+2024-08-16 03:46:51,678 38663 log_generator.py 145 log-generator DEBUG Stand-by alert. Death Star 
+2024-08-16 03:46:51,697 38663 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:46:51,803 38663 log_generator.py 145 log-generator DEBUG GOLD FIVE
+2024-08-16 03:46:51,841 38663 log_generator.py 145 log-generator DEBUG Falcon, while Luke, transfixed by anger and awe, returns 
+2024-08-16 03:46:52,64 38663 log_generator.py 145 log-generator DEBUG to walk to the new square. A sudden frown crosses Chewbacca's 
+2024-08-16 03:46:52,74 38663 log_generator.py 145 log-generator DEBUG them up.
+2024-08-16 03:46:52,104 38663 log_generator.py 145 log-generator DEBUG me down, I shall become more powerful 
+2024-08-16 03:46:52,198 38663 log_generator.py 145 log-generator DEBUG JABBA
+2024-08-16 03:46:52,303 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:46:52,351 38663 log_generator.py 145 log-generator DEBUG INT. WEDGE'S COCKPIT
+2024-08-16 03:46:52,357 38663 log_generator.py 145 log-generator DEBUG and strikes Red Ten's ship. Red Ten screams in anguish and 
+2024-08-16 03:46:52,569 38663 log_generator.py 145 log-generator DEBUG ships with more fire power than 
+2024-08-16 03:46:52,649 38663 log_generator.py 145 log-generator DEBUG Artoo's reply is a rather rude sound. He turns and trudges 
+2024-08-16 03:46:52,712 38663 log_generator.py 145 log-generator DEBUG stare out at the vast blackness of space.
+2024-08-16 03:46:52,771 38663 log_generator.py 145 log-generator DEBUG dump that shipment of spice... you 
+2024-08-16 03:46:52,883 38663 log_generator.py 145 log-generator DEBUG is moved by the event. They turn and face the assembled 
+2024-08-16 03:46:52,945 38663 log_generator.py 145 log-generator DEBUG extraordinaire, running for his life, followed by a host of 
+2024-08-16 03:46:53,36 38663 log_generator.py 145 log-generator DEBUG That's the idea. I've been looking 
+2024-08-16 03:46:53,82 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:46:53,188 38663 log_generator.py 145 log-generator DEBUG uncle. You've gotten soft in the 
+2024-08-16 03:46:53,191 38663 log_generator.py 145 log-generator DEBUG first step into a larger world.
+2024-08-16 03:46:53,226 38663 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:46:53,229 38663 log_generator.py 145 log-generator DEBUG immediately. All right, let's go.
+2024-08-16 03:46:53,279 38663 log_generator.py 145 log-generator DEBUG EXT. TATOOINE - ROCK CANYON - FLOOR
+2024-08-16 03:46:53,373 38663 log_generator.py 145 log-generator DEBUG Deactivate! Well, on the other hand 
+2024-08-16 03:46:53,403 38663 log_generator.py 145 log-generator DEBUG INT. RED LEADER'S COCKPIT
+2024-08-16 03:46:53,570 38663 log_generator.py 145 log-generator DEBUG did you get in?
+2024-08-16 03:46:53,655 38663 log_generator.py 145 log-generator DEBUG They must be trying to return the 
+2024-08-16 03:46:53,715 38663 log_generator.py 145 log-generator DEBUG EXT. DOCKING PORT ENTRY - ALLEYWAY
+2024-08-16 03:46:53,731 38663 log_generator.py 145 log-generator DEBUG This is Red Two. Flying toward you.
+2024-08-16 03:46:53,860 38663 log_generator.py 145 log-generator DEBUG What good is all your uncle's work 
+2024-08-16 03:46:53,888 38663 log_generator.py 145 log-generator DEBUG a relative of yours? Do you know who 
+2024-08-16 03:46:53,985 38663 log_generator.py 145 log-generator DEBUG soldiers can be heard in the distance.
+2024-08-16 03:46:54,7 38663 log_generator.py 145 log-generator DEBUG doesn't know we're here.
+2024-08-16 03:46:54,63 38663 log_generator.py 145 log-generator DEBUG functions that...
+2024-08-16 03:46:54,124 38663 log_generator.py 145 log-generator DEBUG EXT. SPACE AROUND THE DEATH STAR
+2024-08-16 03:46:54,169 38663 log_generator.py 145 log-generator DEBUG Someone was in the pod. The tracks 
+2024-08-16 03:46:54,228 38663 log_generator.py 145 log-generator DEBUG senate.
+2024-08-16 03:46:54,277 38663 log_generator.py 145 log-generator DEBUG The Death Star's surface sweeps past as Red Leader searches 
+2024-08-16 03:46:54,315 38663 log_generator.py 145 log-generator DEBUG Luke, trust me.
+2024-08-16 03:46:54,324 38663 log_generator.py 145 log-generator DEBUG those condensers.
+2024-08-16 03:46:54,423 38663 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:46:54,508 38663 log_generator.py 145 log-generator DEBUG the Death Star surface, but he is unable to lose the TIE 
+2024-08-16 03:46:54,570 38663 log_generator.py 145 log-generator DEBUG it with something.
+2024-08-16 03:46:54,661 38663 log_generator.py 145 log-generator DEBUG INT. READ LEADER'S COCKPIT
+2024-08-16 03:46:54,721 38663 log_generator.py 145 log-generator DEBUG Biggs and the tailing TIE ship dive for the surface, now 
+2024-08-16 03:46:54,811 38663 log_generator.py 145 log-generator DEBUG by a beatup tread-robot with six claw arms. The little robot 
+2024-08-16 03:46:54,912 38663 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:46:54,971 38663 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:46:55,115 38663 log_generator.py 145 log-generator DEBUG Han Solo looks up and sees the Imperial stormtroopers rushing 
+2024-08-16 03:46:55,159 38663 log_generator.py 145 log-generator DEBUG Vader turns to the Commander.
+2024-08-16 03:46:55,208 38663 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:46:55,302 38663 log_generator.py 145 log-generator DEBUG (to Artoo)
+2024-08-16 03:46:55,376 38663 log_generator.py 145 log-generator DEBUG starship and veers radically to one side, colliding with 
+2024-08-16 03:46:55,457 38663 log_generator.py 145 log-generator DEBUG a score of fearsome armored spacesuited stormtroopers make 
+2024-08-16 03:46:55,459 38663 log_generator.py 145 log-generator DEBUG BIGGS
+2024-08-16 03:46:55,499 38663 log_generator.py 145 log-generator DEBUG to pull out in time to avoid the fireball.
+2024-08-16 03:46:55,514 38663 log_generator.py 145 log-generator DEBUG range, fifteen minutes.
+2024-08-16 03:46:55,555 38663 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:46:55,594 38663 log_generator.py 145 log-generator DEBUG You know him!
+2024-08-16 03:46:55,767 38663 log_generator.py 145 log-generator DEBUG sight.
+2024-08-16 03:46:55,866 38663 log_generator.py 145 log-generator DEBUG (over speaker)
+2024-08-16 03:46:55,936 38663 log_generator.py 145 log-generator DEBUG Yes, sir.
+2024-08-16 03:46:56,1 38663 log_generator.py 145 log-generator DEBUG nervously before a lighted computer table. On all sides 
+2024-08-16 03:46:56,32 38663 log_generator.py 145 log-generator DEBUG What do you mean?
+2024-08-16 03:46:56,40 38663 log_generator.py 145 log-generator DEBUG the other way also.
+2024-08-16 03:46:56,95 38663 log_generator.py 145 log-generator DEBUG BIGGS
+2024-08-16 03:46:56,108 38663 log_generator.py 145 log-generator DEBUG BIGGS
+2024-08-16 03:46:56,157 38663 log_generator.py 145 log-generator DEBUG GOLD TWO
+2024-08-16 03:46:56,194 38663 log_generator.py 145 log-generator DEBUG VADER
+2024-08-16 03:46:56,322 38663 log_generator.py 145 log-generator DEBUG What's this?
+2024-08-16 03:46:56,367 38663 log_generator.py 145 log-generator DEBUG Han, Han! If only you hadn't had to 
+2024-08-16 03:46:56,404 38663 log_generator.py 145 log-generator DEBUG a support in the Imperial Senate as 
+2024-08-16 03:46:56,435 38663 log_generator.py 145 log-generator DEBUG TAGGE
+2024-08-16 03:46:56,577 38663 log_generator.py 145 log-generator DEBUG his arm and pulls him back.
+2024-08-16 03:46:56,668 38663 log_generator.py 145 log-generator DEBUG in the background, making his delicate task seem even more 
+2024-08-16 03:46:56,734 38663 log_generator.py 145 log-generator DEBUG (sounding official)
+2024-08-16 03:46:56,782 38663 log_generator.py 145 log-generator DEBUG (over speaker)
+2024-08-16 03:46:57,12 38663 log_generator.py 145 log-generator DEBUG Han skeptically shakes his head as Ben throws the seeker 
+2024-08-16 03:46:57,31 38663 log_generator.py 145 log-generator DEBUG takes careful aim on Luke's X-wing fighter.
+2024-08-16 03:46:57,135 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:46:57,160 38663 log_generator.py 145 log-generator DEBUG A line of stormtroopers march toward the pirateship in 
+2024-08-16 03:46:57,252 38663 log_generator.py 145 log-generator DEBUG Uncle Owen! Aunt Beru! Uncle Owen!
+2024-08-16 03:46:57,505 38663 log_generator.py 145 log-generator DEBUG How long have you had these droids?
+2024-08-16 03:46:57,532 38663 log_generator.py 145 log-generator DEBUG I wish I'd known him.
+2024-08-16 03:46:57,613 38663 log_generator.py 145 log-generator DEBUG power.
+2024-08-16 03:46:57,802 38663 log_generator.py 145 log-generator DEBUG toward them, as the troops think they hear something in the 
+2024-08-16 03:46:57,885 38663 log_generator.py 145 log-generator DEBUG OWEN
+2024-08-16 03:46:58,74 38663 log_generator.py 145 log-generator DEBUG this big before.
+2024-08-16 03:46:58,82 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:46:58,144 38663 log_generator.py 145 log-generator DEBUG near the center blinks on and off.
+2024-08-16 03:46:58,168 38663 log_generator.py 145 log-generator DEBUG the pirateship. Leia moves towards Han, touches his arm and 
+2024-08-16 03:46:58,203 38663 log_generator.py 145 log-generator DEBUG shakes his head in disgust.
+2024-08-16 03:46:58,290 38663 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:46:58,336 38663 log_generator.py 145 log-generator DEBUG an equally pristine Threepio, who is rather awestruck by the 
+2024-08-16 03:46:58,412 38663 log_generator.py 145 log-generator DEBUG X-wings continue in their attack course on the Death Star.
+2024-08-16 03:46:58,416 38663 log_generator.py 145 log-generator DEBUG GOLD TWO
+2024-08-16 03:46:58,478 38663 log_generator.py 145 log-generator DEBUG I don't like the look of this.
+2024-08-16 03:46:58,520 38663 log_generator.py 145 log-generator DEBUG cross hairs, and fires.
+2024-08-16 03:46:58,572 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:46:58,666 38663 log_generator.py 145 log-generator DEBUG Luke is stunned by Biggs' death. His eyes are watering, but 
+2024-08-16 03:46:58,743 38663 log_generator.py 145 log-generator DEBUG other star systems will suffer the 
+2024-08-16 03:46:58,743 38663 log_generator.py 145 log-generator DEBUG WolvSec punches Java (the Hutt)
+2024-08-16 03:46:58,825 38663 log_generator.py 145 log-generator DEBUG place at the head of the table. The Dark Lord stands behind 
+2024-08-16 03:46:58,833 38663 log_generator.py 145 log-generator DEBUG I didn't know you were back! When 
+2024-08-16 03:46:58,883 38663 log_generator.py 145 log-generator DEBUG has too much of his father in him.
+2024-08-16 03:46:59,56 38663 log_generator.py 145 log-generator DEBUG INT. LUKE'S X-WING - COCKPIT
+2024-08-16 03:46:59,79 38663 log_generator.py 145 log-generator DEBUG could take off, I'd never get past 
+2024-08-16 03:46:59,206 38663 log_generator.py 145 log-generator DEBUG Little Artoo carefully plugs his claw arm into a new wall 
+2024-08-16 03:46:59,274 38663 log_generator.py 145 log-generator DEBUG INT. LUKE'S X-WING FIGHTER - COCKPIT
+2024-08-16 03:46:59,356 38663 log_generator.py 145 log-generator DEBUG Don't seem to remember ever owning a 
+2024-08-16 03:46:59,424 38663 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:46:59,524 38663 log_generator.py 145 log-generator DEBUG EXT. SURFACE OF THE DEATH STAR
+2024-08-16 03:46:59,564 38663 log_generator.py 145 log-generator DEBUG Oh, this little droid! I think he's 
+2024-08-16 03:46:59,642 38663 log_generator.py 145 log-generator DEBUG INT. MOS EISLEY SPACEPORT - DOCKING BAY 94
+2024-08-16 03:46:59,710 38663 log_generator.py 145 log-generator DEBUG Suddenly Artoo begins to whistle and beep a blue streak.  
+2024-08-16 03:46:59,712 38663 log_generator.py 145 log-generator DEBUG INT. MILLENNIUM FALCON - COCKPIT
+2024-08-16 03:46:59,731 38663 log_generator.py 145 log-generator DEBUG he fixes his gaze on Luke.
+2024-08-16 03:46:59,767 38663 log_generator.py 145 log-generator DEBUG down this trench and skim the surface 
+2024-08-16 03:46:59,868 38663 log_generator.py 145 log-generator DEBUG just a boy, he was a great pilot. 
+2024-08-16 03:46:59,879 38663 log_generator.py 145 log-generator DEBUG Luke smiles and scratches his head as he takes a blaster 
+2024-08-16 03:46:59,927 38663 log_generator.py 145 log-generator DEBUG Stand-by alert. Death Star 
+2024-08-16 03:47:00,16 38663 log_generator.py 145 log-generator DEBUG Luke reaches out for Artoo but he lets out several frantic 
+2024-08-16 03:47:00,158 38663 log_generator.py 145 log-generator DEBUG One of the Rebel fighters checks in through his mike.
+2024-08-16 03:47:00,250 38663 log_generator.py 145 log-generator DEBUG It will be enough.
+2024-08-16 03:47:00,339 38663 log_generator.py 145 log-generator DEBUG of the TIE fighter. The fighter comes closer, firing at the 
+2024-08-16 03:47:00,380 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:00,464 38663 log_generator.py 145 log-generator DEBUG Luke breaks into a nervous sweat as the laserfire is returned, 
+2024-08-16 03:47:00,540 38663 log_generator.py 145 log-generator DEBUG VADER
+2024-08-16 03:47:00,541 38663 log_generator.py 145 log-generator DEBUG The victorious Millennium Falcon moves off majestically 
+2024-08-16 03:47:00,631 38663 log_generator.py 145 log-generator DEBUG Ben Kenobi puts a hand on his shoulder.
+2024-08-16 03:47:00,666 38663 log_generator.py 145 log-generator DEBUG droids.
+2024-08-16 03:47:00,757 38663 log_generator.py 145 log-generator DEBUG hairs.
+2024-08-16 03:47:00,841 38663 log_generator.py 145 log-generator DEBUG INT. READ LEADER'S COCKPIT
+2024-08-16 03:47:00,862 38663 log_generator.py 145 log-generator DEBUG We should be able to see it by now.
+2024-08-16 03:47:00,941 38663 log_generator.py 145 log-generator DEBUG position.
+2024-08-16 03:47:01,100 38663 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:47:01,162 38663 log_generator.py 145 log-generator DEBUG Han gives her a dirty look, and they start off down the 
+2024-08-16 03:47:01,235 38663 log_generator.py 145 log-generator DEBUG The awesome yellow planet of Tatooine emerges from a total 
+2024-08-16 03:47:01,294 38663 log_generator.py 145 log-generator DEBUG No, sir. If there were any on board, 
+2024-08-16 03:47:01,330 38663 log_generator.py 145 log-generator DEBUG adventurer.
+2024-08-16 03:47:01,370 38663 log_generator.py 145 log-generator DEBUG around a huge planet, Yavin. Rebel fighters flying in 
+2024-08-16 03:47:01,398 38663 log_generator.py 145 log-generator DEBUG INT. MILLENNIUM FALCON - CENTRAL HOLD AREA
+2024-08-16 03:47:01,460 38663 log_generator.py 145 log-generator DEBUG unknown attacker.
+2024-08-16 03:47:01,483 38663 log_generator.py 145 log-generator DEBUG droid... hit the accelerator.
+2024-08-16 03:47:01,579 38663 log_generator.py 145 log-generator DEBUG A young Jedi named Darth Vader, who 
+2024-08-16 03:47:01,655 38663 log_generator.py 145 log-generator DEBUG And, now Your Highness, we will 
+2024-08-16 03:47:01,752 38663 log_generator.py 145 log-generator DEBUG glances with solid, grim determination. Threepio seems 
+2024-08-16 03:47:01,859 38663 log_generator.py 145 log-generator DEBUG INT. POWER STATION - DAY
+2024-08-16 03:47:01,862 38663 log_generator.py 145 log-generator DEBUG That's impossible! How will the 
+2024-08-16 03:47:02,32 38663 log_generator.py 145 log-generator DEBUG VOICE OVER DEATH STAR INTERCOM
+2024-08-16 03:47:02,156 38663 log_generator.py 145 log-generator DEBUG senate.
+2024-08-16 03:47:02,178 38663 log_generator.py 145 log-generator DEBUG Han and Luke remove the trooper suits and strap on the blaster 
+2024-08-16 03:47:02,368 38663 log_generator.py 145 log-generator DEBUG Threepio watches Chewbacca and Artoo who are engrossed in a 
+2024-08-16 03:47:02,383 38663 log_generator.py 145 log-generator DEBUG Hello there! Come here my little 
+2024-08-16 03:47:02,490 38663 log_generator.py 145 log-generator DEBUG Ben is standing next to Chewbacca, an eight-foot-tall savage-
+2024-08-16 03:47:02,573 38663 log_generator.py 145 log-generator DEBUG of Yavin in the foreground, as many X-wing fighters flying 
+2024-08-16 03:47:02,703 38663 log_generator.py 145 log-generator DEBUG Come on out, Solo!
+2024-08-16 03:47:02,789 38663 log_generator.py 145 log-generator DEBUG Death Star will be in range in five 
+2024-08-16 03:47:02,859 38663 log_generator.py 145 log-generator DEBUG An explosion hits near the robots.
+2024-08-16 03:47:02,865 38663 log_generator.py 145 log-generator DEBUG Han and Chewie fire laser pistols at them through the smoke 
+2024-08-16 03:47:02,949 38663 log_generator.py 145 log-generator DEBUG I can't hold them off forever! Now 
+2024-08-16 03:47:03,49 38663 log_generator.py 145 log-generator DEBUG the trail.
+2024-08-16 03:47:03,219 38663 log_generator.py 145 log-generator DEBUG and villainy. We must be cautious.
+2024-08-16 03:47:03,312 38663 log_generator.py 145 log-generator DEBUG A voice calls out from one of the huge holes that form the 
+2024-08-16 03:47:03,432 38663 log_generator.py 145 log-generator DEBUG INT. DEATH STAR
+2024-08-16 03:47:03,434 38663 log_generator.py 145 log-generator DEBUG I see, sir Luke.
+2024-08-16 03:47:03,473 38663 log_generator.py 145 log-generator DEBUG the credit and take all the reward.
+2024-08-16 03:47:03,560 38663 log_generator.py 145 log-generator DEBUG planet.
+2024-08-16 03:47:03,625 38663 log_generator.py 145 log-generator DEBUG GANTRY OFFICER
+2024-08-16 03:47:03,652 38663 log_generator.py 145 log-generator DEBUG The two Galactic warriors stand perfectly still for a few 
+2024-08-16 03:47:03,770 38663 log_generator.py 145 log-generator DEBUG EXT. TATOOINE - MOS EISLEY - STREET
+2024-08-16 03:47:03,786 38663 log_generator.py 145 log-generator DEBUG Threepio intercedes on behalf of his small companion and 
+2024-08-16 03:47:03,833 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:03,970 38663 log_generator.py 145 log-generator DEBUG GOLD LEADER
+2024-08-16 03:47:04,51 38663 log_generator.py 145 log-generator DEBUG Gold Leader's ship is hit by Vader's laser.
+2024-08-16 03:47:04,86 38663 log_generator.py 145 log-generator DEBUG the jump to hyperspace. Besides, I 
+2024-08-16 03:47:04,146 38663 log_generator.py 145 log-generator DEBUG Alderaan system.
+2024-08-16 03:47:04,240 38663 log_generator.py 145 log-generator DEBUG one side of the temple marches a shined-up and fully repaired 
+2024-08-16 03:47:04,318 38663 log_generator.py 145 log-generator DEBUG Artoo whistles and beeps a long message to Threepio.
+2024-08-16 03:47:04,396 38663 log_generator.py 145 log-generator DEBUG maintenance hatch on unit number... 
+2024-08-16 03:47:04,417 38663 log_generator.py 145 log-generator DEBUG their way into the smoke-filled corridor.
+2024-08-16 03:47:04,515 38663 log_generator.py 145 log-generator DEBUG Where could he be?
+2024-08-16 03:47:04,569 38663 log_generator.py 145 log-generator DEBUG nervously before a lighted computer table. On all sides 
+2024-08-16 03:47:04,704 38663 log_generator.py 145 log-generator DEBUG what brings you out this far?
+2024-08-16 03:47:04,790 38663 log_generator.py 145 log-generator DEBUG Death Star will be in range in five 
+2024-08-16 03:47:04,801 38663 log_generator.py 145 log-generator DEBUG Chewbacca settles into the pilot's chair and starts the mighty 
+2024-08-16 03:47:04,834 38663 log_generator.py 145 log-generator DEBUG EXT. SPACE - TIE FIGHTER
+2024-08-16 03:47:04,855 38663 log_generator.py 145 log-generator DEBUG INT. DEATH STAR - MAIN FORWARD BAY
+2024-08-16 03:47:04,897 38663 log_generator.py 145 log-generator DEBUG will you come in?
+2024-08-16 03:47:04,947 38663 log_generator.py 145 log-generator DEBUG Before even thinking, Han draws his laser pistol and charges 
+2024-08-16 03:47:05,26 38663 log_generator.py 145 log-generator DEBUG was a pupil of mine until he turned 
+2024-08-16 03:47:05,198 38663 log_generator.py 145 log-generator DEBUG I've been waiting for you, Obi-Wan. 
+2024-08-16 03:47:05,256 38663 log_generator.py 145 log-generator DEBUG I'll make it up to him next year. I 
+2024-08-16 03:47:05,289 38663 log_generator.py 145 log-generator DEBUG The Tusken Raider approaches two large Banthas standing tied 
+2024-08-16 03:47:05,340 38663 log_generator.py 145 log-generator DEBUG DEAK
+2024-08-16 03:47:05,416 38663 log_generator.py 145 log-generator DEBUG We count thirty Rebel ships, Lord 
+2024-08-16 03:47:05,561 38663 log_generator.py 145 log-generator DEBUG EXT. SPACE
+2024-08-16 03:47:05,579 38663 log_generator.py 145 log-generator DEBUG exception. Where would I be if every 
+2024-08-16 03:47:05,594 38663 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:47:05,648 38663 log_generator.py 145 log-generator DEBUG INT. MILLENNIUM FALCON - COCKPIT
+2024-08-16 03:47:05,742 38663 log_generator.py 145 log-generator DEBUG good are snub fighters going to be 
+2024-08-16 03:47:05,883 38663 log_generator.py 145 log-generator DEBUG horizon in the background twists around as he peels off, 
+2024-08-16 03:47:05,926 38663 log_generator.py 145 log-generator DEBUG The pirateship shudders and the TIE fighter accelerates away 
+2024-08-16 03:47:05,966 38663 log_generator.py 145 log-generator DEBUG (laughing)
+2024-08-16 03:47:06,42 38663 log_generator.py 145 log-generator DEBUG hangar and hurry along a long line of gleaming spacefighters.  
+2024-08-16 03:47:06,50 38663 log_generator.py 145 log-generator DEBUG As the Jawas start to lead the three remaining robots back 
+2024-08-16 03:47:06,162 38663 log_generator.py 145 log-generator DEBUG An enemy laserbolt hits the pirateship's control panel, 
+2024-08-16 03:47:06,282 38663 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:47:06,378 38663 log_generator.py 145 log-generator DEBUG Vader will provide us with the 
+2024-08-16 03:47:06,436 38663 log_generator.py 145 log-generator DEBUG You know that little droid is going 
+2024-08-16 03:47:06,439 38663 log_generator.py 145 log-generator DEBUG better.
+2024-08-16 03:47:06,483 38663 log_generator.py 145 log-generator DEBUG on, get to it!
+2024-08-16 03:47:06,510 38663 log_generator.py 145 log-generator DEBUG A battered Threepio scrambles up to Artoo and embraces him.
+2024-08-16 03:47:06,513 38663 log_generator.py 145 log-generator DEBUG the end of it. It belongs to us now.
+2024-08-16 03:47:06,588 38663 log_generator.py 145 log-generator DEBUG LEIA
+2024-08-16 03:47:06,631 38663 log_generator.py 145 log-generator DEBUG battered Landspeeder little Artoo rests on a large battery 
+2024-08-16 03:47:06,654 38663 log_generator.py 145 log-generator DEBUG and grabs at his chest.
+2024-08-16 03:47:06,677 38663 log_generator.py 145 log-generator DEBUG Luke looks at old Ben, who is busy talking to one of the 
+2024-08-16 03:47:06,687 38663 log_generator.py 145 log-generator DEBUG Luke sits with his Uncle Owen before a table covered with 
+2024-08-16 03:47:06,706 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:06,852 38663 log_generator.py 145 log-generator DEBUG torpedoes.
+2024-08-16 03:47:06,920 38663 log_generator.py 145 log-generator DEBUG RED LEADER
+2024-08-16 03:47:06,929 38663 log_generator.py 145 log-generator DEBUG Stand by to fire at Rebel base.
+2024-08-16 03:47:06,943 38663 log_generator.py 145 log-generator DEBUG INT. DEATH STAR
+2024-08-16 03:47:07,28 38663 log_generator.py 145 log-generator DEBUG A TIE fighter dives past the pirateship.
+2024-08-16 03:47:07,109 38663 log_generator.py 145 log-generator DEBUG the southeast.
+2024-08-16 03:47:07,179 38663 log_generator.py 145 log-generator DEBUG robot. Ben suddenly turns away and sits down. He falters, 
+2024-08-16 03:47:07,261 38663 log_generator.py 145 log-generator DEBUG He's on me tight, I can't shake him... 
+2024-08-16 03:47:07,376 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:07,480 38663 log_generator.py 145 log-generator DEBUG TROOPER
+2024-08-16 03:47:07,574 38663 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:47:07,628 38663 log_generator.py 145 log-generator DEBUG Quiet down will ya! You got a mouth 
+2024-08-16 03:47:07,693 38663 log_generator.py 145 log-generator DEBUG Chewbacca barks his concern. A huge explosion bursts outside 
+2024-08-16 03:47:07,699 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:07,864 38663 log_generator.py 145 log-generator DEBUG All right, come on! And the red one, 
+2024-08-16 03:47:07,898 38663 log_generator.py 145 log-generator DEBUG EXT. TATOOINE - ROCK MESA - DUNE SEA - COASTLINE - DAY
+2024-08-16 03:47:07,945 38663 log_generator.py 145 log-generator DEBUG head of the red astro-droid's head plate and it sparks wildly.
+2024-08-16 03:47:08,39 38663 log_generator.py 145 log-generator DEBUG The Millennium Falcon heads right at the two TIE fighters.  
+2024-08-16 03:47:08,127 38663 log_generator.py 145 log-generator DEBUG below. For the first time, he feels the helplessness of his 
+2024-08-16 03:47:08,130 38663 log_generator.py 145 log-generator DEBUG electrobinoculars.
+2024-08-16 03:47:08,173 38663 log_generator.py 145 log-generator DEBUG destructive blasts at it.
+2024-08-16 03:47:08,289 38663 log_generator.py 145 log-generator DEBUG how that R2 unit could have come 
+2024-08-16 03:47:08,366 38663 log_generator.py 145 log-generator DEBUG in the south range repaired be midday 
+2024-08-16 03:47:08,461 38663 log_generator.py 145 log-generator DEBUG That R2 unit has always been a 
+2024-08-16 03:47:08,508 38663 log_generator.py 145 log-generator DEBUG hole blasted in the side of the ship. An Imperial Commander 
+2024-08-16 03:47:08,576 38663 log_generator.py 145 log-generator DEBUG abandoned ship right after takeoff. 
+2024-08-16 03:47:08,598 38663 log_generator.py 145 log-generator DEBUG Strange creatures play exotic big band music on odd-looking 
+2024-08-16 03:47:08,616 38663 log_generator.py 145 log-generator DEBUG Prisoner transfer from Block one-one-
+2024-08-16 03:47:08,669 38663 log_generator.py 145 log-generator DEBUG (interrupting)
+2024-08-16 03:47:08,744 38663 log_generator.py 145 log-generator DEBUG and addresses Dodonna.
+2024-08-16 03:47:08,822 38663 log_generator.py 145 log-generator DEBUG stunned, and cannot speak. Hate replaces fear and a new 
+2024-08-16 03:47:08,903 38663 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:47:08,944 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:08,985 38663 log_generator.py 145 log-generator DEBUG my father in the Clone Wars. Now he 
+2024-08-16 03:47:09,59 38663 log_generator.py 145 log-generator DEBUG around the scrap heap. The narrow beam swings across rusty 
+2024-08-16 03:47:09,232 38663 log_generator.py 145 log-generator DEBUG But sir, nobody worries about 
+2024-08-16 03:47:09,285 38663 log_generator.py 145 log-generator DEBUG begins to whistle and beep his concern. Ben puts his hand on 
+2024-08-16 03:47:09,401 38663 log_generator.py 145 log-generator DEBUG INT. LUKE'S X-WING FIGHTER - COCKPIT
+2024-08-16 03:47:09,454 38663 log_generator.py 145 log-generator DEBUG Yes, sir.
+2024-08-16 03:47:09,503 38663 log_generator.py 145 log-generator DEBUG auxiliary hatches that lead to Imperial TIE fighters.
+2024-08-16 03:47:09,588 38663 log_generator.py 145 log-generator DEBUG You know of the Rebellion against 
+2024-08-16 03:47:09,612 38663 log_generator.py 145 log-generator DEBUG Good...
+2024-08-16 03:47:09,785 38663 log_generator.py 145 log-generator DEBUG Han is stunned at the command of the petite young girl.
+2024-08-16 03:47:09,869 38663 log_generator.py 145 log-generator DEBUG sight.
+2024-08-16 03:47:09,882 38663 log_generator.py 145 log-generator DEBUG helmet that looks like it's been through many battles. He 
+2024-08-16 03:47:09,886 38663 log_generator.py 145 log-generator DEBUG Is there anything I might do to help?
+2024-08-16 03:47:09,941 38663 log_generator.py 145 log-generator DEBUG EXT. SPACE AROUND THE DEATH STAR
+2024-08-16 03:47:10,25 38663 log_generator.py 145 log-generator DEBUG your father did.
+2024-08-16 03:47:10,64 38663 log_generator.py 145 log-generator DEBUG work their way across the desert wasteland. The lifepod in 
+2024-08-16 03:47:10,209 38663 log_generator.py 145 log-generator DEBUG The Imperial Senate will no longer 
+2024-08-16 03:47:10,301 38663 log_generator.py 145 log-generator DEBUG are gone. The bartender shrugs his shoulders in puzzlement.
+2024-08-16 03:47:10,467 38663 log_generator.py 145 log-generator DEBUG Strange creatures play exotic big band music on odd-looking 
+2024-08-16 03:47:10,496 38663 log_generator.py 145 log-generator DEBUG Vader. But they're so small they're 
+2024-08-16 03:47:10,556 38663 log_generator.py 145 log-generator DEBUG INT. MILLENNIUM FALCON - SOLO'S GUNPORT
+2024-08-16 03:47:10,629 38663 log_generator.py 145 log-generator DEBUG INT. GOLD FIVE'S Y-WING - COCKPIT
+2024-08-16 03:47:10,636 38663 log_generator.py 145 log-generator DEBUG VADER
+2024-08-16 03:47:10,675 38663 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:47:10,753 38663 log_generator.py 145 log-generator DEBUG Why didn't you say so before?
+2024-08-16 03:47:10,804 38663 log_generator.py 145 log-generator DEBUG Who is this? What's your operating 
+2024-08-16 03:47:10,930 38663 log_generator.py 145 log-generator DEBUG Artoo-Detoo! It's you! It's you!
+2024-08-16 03:47:10,954 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:10,982 38663 log_generator.py 145 log-generator DEBUG Senate on a diplomatic mission to 
+2024-08-16 03:47:11,30 38663 log_generator.py 145 log-generator DEBUG Look!
+2024-08-16 03:47:11,102 38663 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:47:11,178 38663 log_generator.py 145 log-generator DEBUG Better her than me...
+2024-08-16 03:47:11,346 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:11,379 38663 log_generator.py 145 log-generator DEBUG (over intercom)
+2024-08-16 03:47:11,402 38663 log_generator.py 145 log-generator DEBUG Lord Vader, I should have known. 
+2024-08-16 03:47:11,473 38663 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:47:11,653 38663 log_generator.py 145 log-generator DEBUG INT. LARS HOMESTEAD - DINING AREA
+2024-08-16 03:47:11,729 38663 log_generator.py 145 log-generator DEBUG station.
+2024-08-16 03:47:11,764 38663 log_generator.py 145 log-generator DEBUG You're crazy! You could wander around 
+2024-08-16 03:47:11,814 38663 log_generator.py 145 log-generator DEBUG Get set to make your attack run.
+2024-08-16 03:47:11,893 38663 log_generator.py 145 log-generator DEBUG (over headset)
+2024-08-16 03:47:11,896 38663 log_generator.py 145 log-generator DEBUG INT. MILLENNIUM FALCON - DEATH STAR
+2024-08-16 03:47:11,985 38663 log_generator.py 145 log-generator DEBUG the Rebel troops. Several of the Rebel troops break and run 
+2024-08-16 03:47:12,11 38663 log_generator.py 145 log-generator DEBUG http://www.imsdb.com/scripts/Star-Wars-A-New-Hope.html
+2024-08-16 03:47:12,57 38663 log_generator.py 145 log-generator DEBUG is moved by the event. They turn and face the assembled 
+2024-08-16 03:47:12,191 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:12,447 38663 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:47:12,472 38663 log_generator.py 145 log-generator DEBUG Red Leader pats Luke on the back as they stop in front of 
+2024-08-16 03:47:12,508 38663 log_generator.py 145 log-generator DEBUG powered laser gun emplacements. Electronic drivers rotate 
+2024-08-16 03:47:12,540 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:12,577 38663 log_generator.py 145 log-generator DEBUG zoom by.
+2024-08-16 03:47:12,585 38663 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:47:12,626 38663 log_generator.py 145 log-generator DEBUG We're in position. I'm going to cut 
+2024-08-16 03:47:12,680 38663 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:47:12,692 38663 log_generator.py 145 log-generator DEBUG the advancing troops. Leia reaches over and hits a switch 
+2024-08-16 03:47:12,775 38663 log_generator.py 145 log-generator DEBUG anything.
+2024-08-16 03:47:12,792 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:12,989 38663 log_generator.py 145 log-generator DEBUG TARKIN
+2024-08-16 03:47:13,67 38663 log_generator.py 145 log-generator DEBUG INT. MASSASSI OUTPOST - WAR ROOM
+2024-08-16 03:47:13,121 38663 log_generator.py 145 log-generator DEBUG closer, until a shabby old desert-rat-of-a-man appears and 
+2024-08-16 03:47:13,207 38663 log_generator.py 145 log-generator DEBUG we were dead.
+2024-08-16 03:47:13,267 38663 log_generator.py 145 log-generator DEBUG EXT. SPACE AROUND THE DEATH STAR
+2024-08-16 03:47:13,355 38663 log_generator.py 145 log-generator DEBUG location of the Rebel fortress by 
+2024-08-16 03:47:13,427 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:13,492 38663 log_generator.py 145 log-generator DEBUG like dusting crops, boy! Without 
+2024-08-16 03:47:13,589 38663 log_generator.py 145 log-generator DEBUG It's a wonder you're still alive.
+2024-08-16 03:47:13,632 38663 log_generator.py 145 log-generator DEBUG it.
+2024-08-16 03:47:13,852 38663 log_generator.py 145 log-generator DEBUG GOLD FIVE
+2024-08-16 03:47:13,899 38663 log_generator.py 145 log-generator DEBUG Alarm sirens scream as soldiers scramble to large turbo- 
+2024-08-16 03:47:14,32 38663 log_generator.py 145 log-generator DEBUG Ten thousand? We could almost buy 
+2024-08-16 03:47:14,102 38663 log_generator.py 145 log-generator DEBUG off in the direction of the rocky desert mesas. Threepio 
+2024-08-16 03:47:14,120 38663 log_generator.py 145 log-generator DEBUG and a small dark figure darts into the shadows. A little 
+2024-08-16 03:47:14,175 38663 log_generator.py 145 log-generator DEBUG you into a million pieces right here.
+2024-08-16 03:47:14,267 38663 log_generator.py 145 log-generator DEBUG Look out! He's loose!
+2024-08-16 03:47:14,441 38663 log_generator.py 145 log-generator DEBUG Cut the chatter, Red Two.
+2024-08-16 03:47:14,542 38663 log_generator.py 145 log-generator DEBUG much...but you're back so soon? Hey, 
+2024-08-16 03:47:14,573 38663 log_generator.py 145 log-generator DEBUG dead end and are forced to turn and fight. Han stops a few 
+2024-08-16 03:47:14,683 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:14,741 38663 log_generator.py 145 log-generator DEBUG He is here...
+2024-08-16 03:47:14,784 38663 log_generator.py 145 log-generator DEBUG filled alcove. A beautiful young girl (about sixteen years 
+2024-08-16 03:47:14,877 38663 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:47:14,972 38663 log_generator.py 145 log-generator DEBUG DEATH STAR INTERCOM VOICE
+2024-08-16 03:47:15,137 38663 log_generator.py 145 log-generator DEBUG RED LEADER'S VOICE
+2024-08-16 03:47:15,271 38663 log_generator.py 145 log-generator DEBUG dealer. Strange exotic bodies and spindly-legged beasts pass 
+2024-08-16 03:47:15,311 38663 log_generator.py 145 log-generator DEBUG TARKIN
+2024-08-16 03:47:15,315 38663 log_generator.py 145 log-generator DEBUG glance.
+2024-08-16 03:47:15,377 38663 log_generator.py 145 log-generator DEBUG BEN'S VOICE
+2024-08-16 03:47:15,476 38663 log_generator.py 145 log-generator DEBUG http://www.imsdb.com/scripts/Star-Wars-A-New-Hope.html
+2024-08-16 03:47:15,552 38663 log_generator.py 145 log-generator DEBUG The military speeder stops in a huge spaceship hangar, set 
+2024-08-16 03:47:15,636 38663 log_generator.py 145 log-generator DEBUG in.
+2024-08-16 03:47:15,754 38663 log_generator.py 145 log-generator DEBUG way toward the opening.
+2024-08-16 03:47:15,842 38663 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:47:15,937 38663 log_generator.py 145 log-generator DEBUG Stay there...
+2024-08-16 03:47:16,88 38663 log_generator.py 145 log-generator DEBUG others are greeted by the Rebel troops.
+2024-08-16 03:47:16,141 38663 log_generator.py 145 log-generator DEBUG Hold on!
+2024-08-16 03:47:16,196 38663 log_generator.py 145 log-generator DEBUG Han and Chewbacca grin from ear to ear.
+2024-08-16 03:47:16,261 38663 log_generator.py 145 log-generator DEBUG EXT. TATOOINE - ROCK MESA - DUNE SEA - COASTLINE - DAY
+2024-08-16 03:47:16,326 38663 log_generator.py 145 log-generator DEBUG Troopers look on in interest as the old Jedi and Dark Lord 
+2024-08-16 03:47:16,360 38663 log_generator.py 145 log-generator DEBUG Artoo looks around and sheepishly beeps an answer for Threepio 
+2024-08-16 03:47:16,415 38663 log_generator.py 145 log-generator DEBUG The pirateship is just coming out of hyperspace; a strange 
+2024-08-16 03:47:16,465 38663 log_generator.py 145 log-generator DEBUG Luke climbs down the ladder into the gunport cockpit, settling 
+2024-08-16 03:47:16,535 38663 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:47:16,797 38663 log_generator.py 145 log-generator DEBUG You bet I could. I'm not such a bad 
+2024-08-16 03:47:16,924 38663 log_generator.py 145 log-generator DEBUG Rebel base, in range.
+2024-08-16 03:47:16,959 38663 log_generator.py 145 log-generator DEBUG An alert guard, his laser gun in hand, scans the countryside.  
+2024-08-16 03:47:16,969 38663 log_generator.py 145 log-generator DEBUG is sitting on the deserted computer console. Artoo and 
+2024-08-16 03:47:17,39 38663 log_generator.py 145 log-generator DEBUG Ben reacts to Solo's stupid attempt to impress them with 
+2024-08-16 03:47:17,200 38663 log_generator.py 145 log-generator DEBUG half your group out of range for the 
+2024-08-16 03:47:17,260 38663 log_generator.py 145 log-generator DEBUG RED LEADER
+2024-08-16 03:47:17,353 38663 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:47:17,491 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:17,563 38663 log_generator.py 145 log-generator DEBUG as the princess smiles comfortingly at him.
+2024-08-16 03:47:17,579 38663 log_generator.py 145 log-generator DEBUG a fat, slug-like creature with eyes on extended feelers and 
+2024-08-16 03:47:17,668 38663 log_generator.py 145 log-generator DEBUG Artoo works to repair the damages. The canyon wall rushes by 
+2024-08-16 03:47:17,674 38663 log_generator.py 145 log-generator DEBUG stubby claw hand, causing one of the holographic creatures 
+2024-08-16 03:47:17,709 38663 log_generator.py 145 log-generator DEBUG INT. MILLENNIUM FALCON - COCKPIT
+2024-08-16 03:47:17,856 38663 log_generator.py 145 log-generator DEBUG outlandish creatures, doesn't quite catch the bartender's 
+2024-08-16 03:47:17,887 38663 log_generator.py 145 log-generator DEBUG LEIA
+2024-08-16 03:47:18,29 38663 log_generator.py 145 log-generator DEBUG his drink, looking over the crowd for a more sympathetic ear 
+2024-08-16 03:47:18,97 38663 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:47:18,163 38663 log_generator.py 145 log-generator DEBUG Just Luke.
+2024-08-16 03:47:18,165 38663 log_generator.py 145 log-generator DEBUG garage, will you? I want you to have 
+2024-08-16 03:47:18,259 38663 log_generator.py 145 log-generator DEBUG No, sir. If there were any on board, 
+2024-08-16 03:47:18,299 38663 log_generator.py 145 log-generator DEBUG droid. Very interesting...
+2024-08-16 03:47:18,344 38663 log_generator.py 145 log-generator DEBUG explosions.
+2024-08-16 03:47:18,501 38663 log_generator.py 145 log-generator DEBUG Several Imperial soldiers, flanking a pensive Grand Moff 
+2024-08-16 03:47:18,561 38663 log_generator.py 145 log-generator DEBUG Escape is not his plan. I must face 
+2024-08-16 03:47:18,641 38663 log_generator.py 145 log-generator DEBUG sound.
+2024-08-16 03:47:18,766 38663 log_generator.py 145 log-generator DEBUG Are you all right?
+2024-08-16 03:47:18,852 38663 log_generator.py 145 log-generator DEBUG waves to the gantry officer, pointing to his ear indicating 
+2024-08-16 03:47:18,938 38663 log_generator.py 145 log-generator DEBUG INT. DEATH STAR - DOCKING BAY 2037
+2024-08-16 03:47:19,34 38663 log_generator.py 145 log-generator DEBUG in formation zoom toward us and out of the frame.
+2024-08-16 03:47:19,47 38663 log_generator.py 145 log-generator DEBUG while Threepio watches the Princess. Lights representing the 
+2024-08-16 03:47:19,83 38663 log_generator.py 145 log-generator DEBUG EXT. TATOOINE - MOS EISLEY - STREET
+2024-08-16 03:47:19,163 38663 log_generator.py 145 log-generator DEBUG from Solo.
+2024-08-16 03:47:19,247 38663 log_generator.py 145 log-generator DEBUG help her.
+2024-08-16 03:47:19,322 38663 log_generator.py 145 log-generator DEBUG Well, things haven't been the same 
+2024-08-16 03:47:19,355 38663 log_generator.py 145 log-generator DEBUG INT. DEATH STAR - DETENTION CORRIDOR
+2024-08-16 03:47:19,459 38663 log_generator.py 145 log-generator DEBUG nervous.
+2024-08-16 03:47:19,513 38663 log_generator.py 145 log-generator DEBUG Your uncle could hold off a whole 
+2024-08-16 03:47:19,558 38663 log_generator.py 145 log-generator DEBUG hallway. They round a corner and run right into twenty 
+2024-08-16 03:47:19,584 38663 log_generator.py 145 log-generator DEBUG displaying a small green planet.
+2024-08-16 03:47:19,670 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:19,726 38663 log_generator.py 145 log-generator DEBUG network.
+2024-08-16 03:47:19,823 38663 log_generator.py 145 log-generator DEBUG INT. GOLD LEADER'S Y-WING - COCKPIT
+2024-08-16 03:47:20,12 38663 log_generator.py 145 log-generator DEBUG Hey, what're you trying to push on 
+2024-08-16 03:47:20,191 38663 log_generator.py 145 log-generator DEBUG Clear Bay twenty-three-seven. We are opening the magnetic 
+2024-08-16 03:47:20,254 38663 log_generator.py 145 log-generator DEBUG corridors are knocked against the wall and lose their balance.
+2024-08-16 03:47:20,517 38663 log_generator.py 145 log-generator DEBUG You go get her. I'll hold them here.
+2024-08-16 03:47:20,623 38663 log_generator.py 145 log-generator DEBUG SECOND OFFICER
+2024-08-16 03:47:20,680 38663 log_generator.py 145 log-generator DEBUG RED LEADER
+2024-08-16 03:47:20,743 38663 log_generator.py 145 log-generator DEBUG Biggs! Of course, I'll be up there 
+2024-08-16 03:47:20,812 38663 log_generator.py 145 log-generator DEBUG VADER
+2024-08-16 03:47:20,902 38663 log_generator.py 145 log-generator DEBUG GANTRY OFFICER
+2024-08-16 03:47:20,944 38663 log_generator.py 145 log-generator DEBUG LEIA
+2024-08-16 03:47:20,998 38663 log_generator.py 145 log-generator DEBUG Lord Vader, the battle station plans 
+2024-08-16 03:47:21,3 38663 log_generator.py 145 log-generator DEBUG Owen breaks loose with a fit of uncontrolled anger.
+2024-08-16 03:47:21,71 38663 log_generator.py 145 log-generator DEBUG murky depths. Chewbacca lets out a terrified howl and begins 
+2024-08-16 03:47:21,75 38663 log_generator.py 145 log-generator DEBUG his power. It's an energy field 
+2024-08-16 03:47:21,182 38663 log_generator.py 145 log-generator DEBUG surface of an Art Deco design.
+2024-08-16 03:47:21,321 38663 log_generator.py 145 log-generator DEBUG there... he's almost in range.
+2024-08-16 03:47:21,410 38663 log_generator.py 145 log-generator DEBUG Luke, Threepio and little Artoo enter the huge spaceship 
+2024-08-16 03:47:21,425 38663 log_generator.py 145 log-generator DEBUG come out before somebody sees you.
+2024-08-16 03:47:21,486 38663 log_generator.py 145 log-generator DEBUG Artoo beeps something to him.
+2024-08-16 03:47:21,493 38663 log_generator.py 145 log-generator DEBUG No, sir. If there were any on board, 
+2024-08-16 03:47:21,547 38663 log_generator.py 145 log-generator DEBUG Red Nine standing by.
+2024-08-16 03:47:21,643 38663 log_generator.py 145 log-generator DEBUG Luke rushes out of the small doomed entry to the homestead 
+2024-08-16 03:47:21,683 38663 log_generator.py 145 log-generator DEBUG two riderless Banthas. Threepio struggles up behind the young 
+2024-08-16 03:47:21,741 38663 log_generator.py 145 log-generator DEBUG They're heading in this direction. 
+2024-08-16 03:47:21,747 38663 log_generator.py 145 log-generator DEBUG down this trench and skim the surface 
+2024-08-16 03:47:21,761 38663 log_generator.py 145 log-generator DEBUG for sale with the Jawa leader.
+2024-08-16 03:47:21,856 38663 log_generator.py 145 log-generator DEBUG Don't try to frighten us with your 
+2024-08-16 03:47:21,889 38663 log_generator.py 145 log-generator DEBUG right. I'm never gonna get out of 
+2024-08-16 03:47:21,917 38663 log_generator.py 145 log-generator DEBUG he's talking about?
+2024-08-16 03:47:22,14 38663 log_generator.py 145 log-generator DEBUG Luke flings his X-wing into a twisting dive across the horizon 
+2024-08-16 03:47:22,60 38663 log_generator.py 145 log-generator DEBUG TROOPER
+2024-08-16 03:47:22,97 38663 log_generator.py 145 log-generator DEBUG Aaah... This is a consular ship. 
+2024-08-16 03:47:22,113 38663 log_generator.py 145 log-generator DEBUG You can't win, Darth. If you strike 
+2024-08-16 03:47:22,129 38663 log_generator.py 145 log-generator DEBUG Luke's ineptitude.
+2024-08-16 03:47:22,149 38663 log_generator.py 145 log-generator DEBUG TROOPER
+2024-08-16 03:47:22,234 38663 log_generator.py 145 log-generator DEBUG this -- that's why I've also been 
+2024-08-16 03:47:22,323 38663 log_generator.py 145 log-generator DEBUG unit has become a bit eccentric.
+2024-08-16 03:47:22,371 38663 log_generator.py 145 log-generator DEBUG Artoo continues making beeping sounds. Tension mounts as 
+2024-08-16 03:47:22,428 38663 log_generator.py 145 log-generator DEBUG that he is fine.
+2024-08-16 03:47:22,544 38663 log_generator.py 145 log-generator DEBUG Where are you going?
+2024-08-16 03:47:22,580 38663 log_generator.py 145 log-generator DEBUG ...so I cut off my power, shut down 
+2024-08-16 03:47:22,653 38663 log_generator.py 145 log-generator DEBUG Tarkin, the more star systems will 
+2024-08-16 03:47:22,655 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:22,844 38663 log_generator.py 145 log-generator DEBUG in one piece.
+2024-08-16 03:47:22,885 38663 log_generator.py 145 log-generator DEBUG mine. The Force will be with you... 
+2024-08-16 03:47:22,983 38663 log_generator.py 145 log-generator debug THREEPIO
+2024-08-16 03:46:58,743 38663 log_generator.py 145 log-generator DEBUG NO WolvSec ITS A TRAP!
+2024-08-16 03:47:23,1 38663 log_generator.py 145 log-generator DEBUG the mission he is about to perform.
+2024-08-16 03:47:23,47 38663 log_generator.py 145 log-generator DEBUG Evacuate? In out moment of triumph? 
+2024-08-16 03:47:23,136 38663 log_generator.py 145 log-generator DEBUG leans over Luke. His ancient leathery face, cracked and 
+2024-08-16 03:47:23,371 38663 log_generator.py 145 log-generator DEBUG but he's faulty, malfunctioning; 
+2024-08-16 03:47:23,478 38663 log_generator.py 145 log-generator DEBUG before we can extract any information 
+2024-08-16 03:47:23,513 38663 log_generator.py 145 log-generator DEBUG INT. LUKE'S X-WING FIGHTER - COCKPIT
+2024-08-16 03:47:23,538 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:23,599 38663 log_generator.py 145 log-generator DEBUG We don't need to see his 
+2024-08-16 03:47:23,633 38663 log_generator.py 145 log-generator DEBUG Luke, Han, and Chewbacca enter the huge ruins of the main 
+2024-08-16 03:47:23,676 38663 log_generator.py 145 log-generator DEBUG anything.
+2024-08-16 03:47:23,748 38663 log_generator.py 145 log-generator DEBUG Two TIE fighters dive down toward the pirateship.
+2024-08-16 03:47:23,774 38663 log_generator.py 145 log-generator DEBUG stardestroyers.
+2024-08-16 03:47:23,827 38663 log_generator.py 145 log-generator DEBUG ship lurches violently, throwing poor Threepio into a cabinet 
+2024-08-16 03:47:24,106 38663 log_generator.py 145 log-generator DEBUG Artoo, try and increase the power!
+2024-08-16 03:47:24,203 38663 log_generator.py 145 log-generator DEBUG BIGGS
+2024-08-16 03:47:24,256 38663 log_generator.py 145 log-generator DEBUG only hope we can get back before 
+2024-08-16 03:47:24,420 38663 log_generator.py 145 log-generator DEBUG It's them! Blast them!
+2024-08-16 03:47:24,638 38663 log_generator.py 145 log-generator DEBUG fantastic cries of unimaginable creatures. Han, Luke and the 
+2024-08-16 03:47:24,716 38663 log_generator.py 145 log-generator DEBUG Hurry!
+2024-08-16 03:47:24,787 38663 log_generator.py 145 log-generator DEBUG The helpless Millennium Falcon is pulled past a docking port 
+2024-08-16 03:47:24,940 38663 log_generator.py 145 log-generator DEBUG INT. DEATH STAR - MAIN BAY GANTRY - CONTROL TOWER
+2024-08-16 03:47:25,7 38663 log_generator.py 145 log-generator DEBUG INT. DEATH STAR - GARBAGE ROOM
+2024-08-16 03:47:25,40 38663 log_generator.py 145 log-generator DEBUG officer giving orders finally fade. Two floor panels suddenly 
+2024-08-16 03:47:25,157 38663 log_generator.py 145 log-generator DEBUG torpedoes.
+2024-08-16 03:47:25,187 38663 log_generator.py 145 log-generator DEBUG Han, removes his gloves and smiling, is at the controls of 
+2024-08-16 03:47:25,320 38663 log_generator.py 145 log-generator DEBUG You're who?
+2024-08-16 03:47:25,358 38663 log_generator.py 145 log-generator DEBUG them!
+2024-08-16 03:47:25,371 38663 log_generator.py 145 log-generator DEBUG You're crazy! You could wander around 
+2024-08-16 03:47:25,453 38663 log_generator.py 145 log-generator DEBUG I'm not going anywhere.
+2024-08-16 03:47:25,577 38663 log_generator.py 145 log-generator DEBUG EXT. SPACE - PLANET TATOOINE
+2024-08-16 03:47:25,610 38663 log_generator.py 145 log-generator DEBUG droid before... there seems to be no 
+2024-08-16 03:47:25,802 38663 log_generator.py 145 log-generator DEBUG Sorry about the mess.
+2024-08-16 03:47:25,865 38663 log_generator.py 145 log-generator DEBUG Ben ponders this for a moment, scratching his scruffy beard.
+2024-08-16 03:47:25,982 38663 log_generator.py 145 log-generator DEBUG behind Luke and Biggs. He has the confident smile of a born 
+2024-08-16 03:47:25,985 38663 log_generator.py 145 log-generator DEBUG EXT. SPACE
+2024-08-16 03:47:26,4 38663 log_generator.py 145 log-generator DEBUG explosion and the door of the control tower flies across the 
+2024-08-16 03:47:26,96 38663 log_generator.py 145 log-generator DEBUG You okay, Artoo?
+2024-08-16 03:47:26,193 38663 log_generator.py 145 log-generator DEBUG Man your ships! And may the Force be 
+2024-08-16 03:47:26,256 38663 log_generator.py 145 log-generator DEBUG Artoo! Artoo-Detoo, where are you?
+2024-08-16 03:47:26,266 38663 log_generator.py 145 log-generator DEBUG garage, will you? I want you to have 
+2024-08-16 03:47:26,385 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:26,426 38663 log_generator.py 145 log-generator DEBUG earlier...
+2024-08-16 03:47:26,501 38663 log_generator.py 145 log-generator DEBUG by a lightning movement of The Sith. A masterful slash stroke 
+2024-08-16 03:47:26,579 38663 log_generator.py 145 log-generator DEBUG up, and one day, whammo, you're going 
+2024-08-16 03:47:26,596 38663 log_generator.py 145 log-generator DEBUG You must do what you feel is right, 
+2024-08-16 03:47:26,768 38663 log_generator.py 145 log-generator DEBUG chatters away as he points to something on the radar scope.
+2024-08-16 03:47:26,900 38663 log_generator.py 145 log-generator DEBUG No, I'm leaving in the morning...
+2024-08-16 03:47:27,29 38663 log_generator.py 145 log-generator DEBUG trust the logic of a half-sized 
+2024-08-16 03:47:27,397 38663 log_generator.py 145 log-generator DEBUG INT. LUKE'S X-WING FIGHTER - COCKPIT
+2024-08-16 03:47:27,452 38663 log_generator.py 145 log-generator DEBUG Han draws his laser pistol and pops off a couple of shots 
+2024-08-16 03:47:27,539 38663 log_generator.py 145 log-generator DEBUG Red Three standing by.
+2024-08-16 03:47:27,704 38663 log_generator.py 145 log-generator DEBUG are required to maneuver straight 
+2024-08-16 03:47:27,768 38663 log_generator.py 145 log-generator DEBUG INT. MASSASSI OUTPOST - WAR ROOM
+2024-08-16 03:47:27,868 38663 log_generator.py 145 log-generator DEBUG It is a period of civil war. Rebel spaceships, 
+2024-08-16 03:47:27,888 38663 log_generator.py 145 log-generator DEBUG If you give it to me, I might forget 
+2024-08-16 03:47:27,929 38663 log_generator.py 145 log-generator DEBUG GANTRY OFFICER
+2024-08-16 03:47:27,992 38663 log_generator.py 145 log-generator DEBUG The group straps in for take off.
+2024-08-16 03:47:28,128 38663 log_generator.py 145 log-generator DEBUG the mission he is about to perform.
+2024-08-16 03:47:28,172 38663 log_generator.py 145 log-generator DEBUG (to Artoo)
+2024-08-16 03:47:28,173 38663 log_generator.py 145 log-generator DEBUG You must learn the ways of the Force 
+2024-08-16 03:47:28,272 38663 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:47:28,406 38663 log_generator.py 145 log-generator DEBUG of the rocks and engulfs him in an eerie glow. He manages 
+2024-08-16 03:47:28,540 38663 log_generator.py 145 log-generator DEBUG and is now looking at him with an uncomprehending look on 
+2024-08-16 03:47:28,623 38663 log_generator.py 145 log-generator DEBUG We'll be safe enough once we make 
+2024-08-16 03:47:28,694 38663 log_generator.py 145 log-generator DEBUG that he is fine.
+2024-08-16 03:47:28,716 38663 log_generator.py 145 log-generator DEBUG The old Jedi Knight looks over his shoulder at Luke, lifts 
+2024-08-16 03:47:28,775 38663 log_generator.py 145 log-generator DEBUG DAY
+2024-08-16 03:47:28,941 38663 log_generator.py 145 log-generator DEBUG But there was a lot of firing 
+2024-08-16 03:47:29,5 38663 log_generator.py 145 log-generator DEBUG you said this thing was fast.
+2024-08-16 03:47:29,30 38663 log_generator.py 145 log-generator DEBUG LEIA
+2024-08-16 03:47:29,92 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:29,114 38663 log_generator.py 145 log-generator DEBUG Bring them on! I prefer a straight 
+2024-08-16 03:47:29,218 38663 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:47:29,221 38663 log_generator.py 145 log-generator DEBUG hallway. Chewbacca barks a comment and Han shakes his head 
+2024-08-16 03:47:29,286 38663 log_generator.py 145 log-generator DEBUG It could be worse...
+2024-08-16 03:47:29,294 38663 log_generator.py 145 log-generator DEBUG he's talking about. Our last master 
+2024-08-16 03:47:29,376 38663 log_generator.py 145 log-generator DEBUG alert in detention block A A-twenty-
+2024-08-16 03:47:29,420 38663 log_generator.py 145 log-generator DEBUG The Millennium Falcon zooms into infinity in less than a 
+2024-08-16 03:47:29,582 38663 log_generator.py 145 log-generator DEBUG of you before your scope can pick 
+2024-08-16 03:47:29,610 38663 log_generator.py 145 log-generator DEBUG one in the message... We've got to 
+2024-08-16 03:47:29,668 38663 log_generator.py 145 log-generator DEBUG Don't worry, she'll hold together.
+2024-08-16 03:47:29,768 38663 log_generator.py 145 log-generator DEBUG binds the galaxy together.
+2024-08-16 03:47:29,835 38663 log_generator.py 145 log-generator DEBUG Luke, let me know when you're going 
+2024-08-16 03:47:29,855 38663 log_generator.py 145 log-generator DEBUG Vader is taken by surprise, and looks out from his cockpit.
+2024-08-16 03:47:29,945 38663 log_generator.py 145 log-generator DEBUG (yelling)
+2024-08-16 03:47:30,40 38663 log_generator.py 145 log-generator DEBUG Artoo whistles something at his reluctant friend regarding 
+2024-08-16 03:47:30,73 38663 log_generator.py 145 log-generator DEBUG open hatchway.
+2024-08-16 03:47:30,110 38663 log_generator.py 145 log-generator DEBUG good friend. Which reminds me...
+2024-08-16 03:47:30,156 38663 log_generator.py 145 log-generator DEBUG The tall figure of Han Solo comes down the boarding ramp.
+2024-08-16 03:47:30,219 38663 log_generator.py 145 log-generator DEBUG readout. The low-ceilinged room is filled with starpilots, 
+2024-08-16 03:47:30,249 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:30,269 38663 log_generator.py 145 log-generator DEBUG Biggs takes the binoculars from Luke as the others strain to 
+2024-08-16 03:47:30,331 38663 log_generator.py 145 log-generator DEBUG about preparing for another blast. Even the troopers head 
+2024-08-16 03:47:30,397 38663 log_generator.py 145 log-generator DEBUG are barely able to keep the stormtroopers at bay at the far 
+2024-08-16 03:47:30,440 38663 log_generator.py 145 log-generator DEBUG Use the comlink? Oh, my! I forgot I 
+2024-08-16 03:47:30,487 38663 log_generator.py 145 log-generator DEBUG formation settle ominously in the foreground and very slowly 
+2024-08-16 03:47:30,565 38663 log_generator.py 145 log-generator DEBUG looking to each side at his wing men.
+2024-08-16 03:47:30,633 38663 log_generator.py 145 log-generator DEBUG is heard echoing throughout the canyon which sends the 
+2024-08-16 03:47:30,698 38663 log_generator.py 145 log-generator DEBUG BIGGS
+2024-08-16 03:47:30,777 38663 log_generator.py 145 log-generator DEBUG of the farm boys. A robot repairs some equipment in the 
+2024-08-16 03:47:30,815 38663 log_generator.py 145 log-generator DEBUG INT. MILLENNIUM FALCON - SOLO'S GUNPORT - COCKPIT
+2024-08-16 03:47:30,930 38663 log_generator.py 145 log-generator DEBUG Commence primary ignition.
+2024-08-16 03:47:31,25 38663 log_generator.py 145 log-generator DEBUG over the droids.
+2024-08-16 03:47:31,123 38663 log_generator.py 145 log-generator DEBUG The guns... they've stopped!
+2024-08-16 03:47:31,217 38663 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:47:31,249 38663 log_generator.py 145 log-generator DEBUG EXT. SPACE AROUND THE DEATH STAR
+2024-08-16 03:47:31,276 38663 log_generator.py 145 log-generator DEBUG You came in that thing? You're braver 
+2024-08-16 03:47:31,334 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:31,412 38663 log_generator.py 145 log-generator DEBUG Tell Jabba that I've got his money.
+2024-08-16 03:47:31,610 38663 log_generator.py 145 log-generator DEBUG If they traced the robots here, they 
+2024-08-16 03:47:31,671 38663 log_generator.py 145 log-generator DEBUG temple. Hundreds of troops are lined up in neat rows. Banners 
+2024-08-16 03:47:31,758 38663 log_generator.py 145 log-generator DEBUG The Rebel ships race toward the fourth moon of Yavin.
+2024-08-16 03:47:31,833 38663 log_generator.py 145 log-generator DEBUG INT. MAIN HANGAR DECK - LUKE'S SHIP
+2024-08-16 03:47:31,868 38663 log_generator.py 145 log-generator DEBUG be able to hire some more hands. And 
+2024-08-16 03:47:31,876 38663 log_generator.py 145 log-generator DEBUG Artoo punches his claw arm into the computer socket and the 
+2024-08-16 03:47:32,34 38663 log_generator.py 145 log-generator DEBUG The stormtroopers scurry into the subhallways.
+2024-08-16 03:47:32,106 38663 log_generator.py 145 log-generator DEBUG and cocksure.
+2024-08-16 03:47:32,305 38663 log_generator.py 145 log-generator DEBUG Leia and the others stare at the computer screen.
+2024-08-16 03:47:32,333 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:32,374 38663 log_generator.py 145 log-generator DEBUG along with your father.
+2024-08-16 03:47:32,437 38663 log_generator.py 145 log-generator DEBUG agreement about my staying on another 
+2024-08-16 03:47:32,493 38663 log_generator.py 145 log-generator DEBUG stormtroopers are so precise.
+2024-08-16 03:47:32,560 38663 log_generator.py 145 log-generator DEBUG LEIA
+2024-08-16 03:47:32,583 38663 log_generator.py 145 log-generator DEBUG But I was going into Toshi Station 
+2024-08-16 03:47:32,585 38663 log_generator.py 145 log-generator DEBUG into space.
+2024-08-16 03:47:32,633 38663 log_generator.py 145 log-generator DEBUG sir.
+2024-08-16 03:47:32,716 38663 log_generator.py 145 log-generator DEBUG Grand Moff Tarkin watches the projected target screen with 
+2024-08-16 03:47:32,788 38663 log_generator.py 145 log-generator DEBUG here?
+2024-08-16 03:47:32,815 38663 log_generator.py 145 log-generator DEBUG on a small pedestal jutting out above the dense jungle. The 
+2024-08-16 03:47:32,892 38663 log_generator.py 145 log-generator DEBUG about preparing for another blast. Even the troopers head 
+2024-08-16 03:47:32,987 38663 log_generator.py 145 log-generator DEBUG When I left you, I was but the 
+2024-08-16 03:47:33,2 38663 log_generator.py 145 log-generator DEBUG translator to be sure it speaks Bocce.
+2024-08-16 03:47:33,106 38663 log_generator.py 145 log-generator DEBUG the speeder.
+2024-08-16 03:47:33,321 38663 log_generator.py 145 log-generator DEBUG with you! Listen, have I got some 
+2024-08-16 03:47:33,422 38663 log_generator.py 145 log-generator DEBUG In a huff of anger and frustration, Threepio knocks the sand 
+2024-08-16 03:47:33,580 38663 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:47:33,581 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:33,621 38663 log_generator.py 145 log-generator DEBUG INT. BIGGS' COCKPIT
+2024-08-16 03:47:33,647 38663 log_generator.py 145 log-generator DEBUG LEIA
+2024-08-16 03:47:33,693 38663 log_generator.py 145 log-generator DEBUG Artoo scoots past his bronze friend and races down the 
+2024-08-16 03:47:33,750 38663 log_generator.py 145 log-generator DEBUG Biggs dives through a forest of radar domes, antennae, and 
+2024-08-16 03:47:33,816 38663 log_generator.py 145 log-generator DEBUG by an Imperial TIE fighter. The TIE ship fires several 
+2024-08-16 03:47:34,37 38663 log_generator.py 145 log-generator DEBUG Millennium Falcon. Chewie here tells 
+2024-08-16 03:47:34,133 38663 log_generator.py 145 log-generator DEBUG INT. BIGGS' COCKPIT
+2024-08-16 03:47:34,168 38663 log_generator.py 145 log-generator DEBUG Vader's fighter behind him.
+2024-08-16 03:47:34,245 38663 log_generator.py 145 log-generator DEBUG flashes appear on the surface. The Death Star bursts into a 
+2024-08-16 03:47:34,379 38663 log_generator.py 145 log-generator DEBUG FIRST TROOPER
+2024-08-16 03:47:34,424 38663 log_generator.py 145 log-generator DEBUG I met your father once when I was 
+2024-08-16 03:47:34,601 38663 log_generator.py 145 log-generator DEBUG Red Ten standing by.
+2024-08-16 03:47:34,651 38663 log_generator.py 145 log-generator DEBUG two meters.
+2024-08-16 03:47:34,745 38663 log_generator.py 145 log-generator DEBUG to get off a couple off laserblasts at the pursuing troops 
+2024-08-16 03:47:34,770 38663 log_generator.py 145 log-generator DEBUG number.
+2024-08-16 03:47:34,863 38663 log_generator.py 145 log-generator DEBUG We've entered the Alderaan system.
+2024-08-16 03:47:35,42 38663 log_generator.py 145 log-generator DEBUG Vader's ship spins out of control with a bent solar fin, 
+2024-08-16 03:47:35,179 38663 log_generator.py 145 log-generator DEBUG Luke and Biggs are walking and drinking a malt brew. Fixer 
+2024-08-16 03:47:35,210 38663 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:47:35,268 38663 log_generator.py 145 log-generator DEBUG Clear Bay twenty-three-seven. We are opening the magnetic 
+2024-08-16 03:47:35,300 38663 log_generator.py 145 log-generator DEBUG INT. GOLD LEADER'S Y-WING - COCKPIT
+2024-08-16 03:47:35,355 38663 log_generator.py 145 log-generator DEBUG Oh! The garbage chute was a really 
+2024-08-16 03:47:35,411 38663 log_generator.py 145 log-generator DEBUG Uncle Owen isn't going to take this 
+2024-08-16 03:47:35,421 38663 log_generator.py 145 log-generator DEBUG in a like manner, the glow of his target screen lighting his 
+2024-08-16 03:47:35,515 38663 log_generator.py 145 log-generator DEBUG EXT. SPACECRAFT IN SPACE
+2024-08-16 03:47:35,578 38663 log_generator.py 145 log-generator DEBUG BIGGS
+2024-08-16 03:47:35,676 38663 log_generator.py 145 log-generator DEBUG carefully. Threepio and Artoo look over the control panel.  
+2024-08-16 03:47:35,714 38663 log_generator.py 145 log-generator DEBUG EXT. SURFACE OF THE DEATH STAR
+2024-08-16 03:47:35,877 38663 log_generator.py 145 log-generator DEBUG will dare oppose the Emperor now.
+2024-08-16 03:47:35,908 38663 log_generator.py 145 log-generator DEBUG The speeder is stopped on a crowded street by several combat-
+2024-08-16 03:47:36,16 38663 log_generator.py 145 log-generator DEBUG Solo climbs into his attack position in the topside gunport.
+2024-08-16 03:47:36,96 38663 log_generator.py 145 log-generator DEBUG These are the same Jawas that sold 
+2024-08-16 03:47:36,141 38663 log_generator.py 145 log-generator DEBUG onrushing Death Star surface. Several small radar emplacements 
+2024-08-16 03:47:36,218 38663 log_generator.py 145 log-generator DEBUG Ben feeds some information into the computer and a map of 
+2024-08-16 03:47:36,272 38663 log_generator.py 145 log-generator DEBUG gear is not adequate to protect them from the overwhelming 
+2024-08-16 03:47:36,347 38663 log_generator.py 145 log-generator DEBUG anything.
+2024-08-16 03:47:36,421 38663 log_generator.py 145 log-generator DEBUG cramped cockpit where Han continues his calculation.
+2024-08-16 03:47:36,502 38663 log_generator.py 145 log-generator DEBUG (over headset)
+2024-08-16 03:47:36,570 38663 log_generator.py 145 log-generator DEBUG I've got to rest before I fall apart. 
+2024-08-16 03:47:36,657 38663 log_generator.py 145 log-generator DEBUG BIGGS
+2024-08-16 03:47:36,697 38663 log_generator.py 145 log-generator DEBUG to this point. The target area is 
+2024-08-16 03:47:36,755 38663 log_generator.py 145 log-generator DEBUG talked about. Luke, I'm not going to 
+2024-08-16 03:47:36,798 38663 log_generator.py 145 log-generator DEBUG OFFICER
+2024-08-16 03:47:36,839 38663 log_generator.py 145 log-generator DEBUG TIE fighters. The Wookiee pulls back on the speed controls 
+2024-08-16 03:47:36,894 38663 log_generator.py 145 log-generator DEBUG in the background, making his delicate task seem even more 
+2024-08-16 03:47:36,982 38663 log_generator.py 145 log-generator DEBUG Luke enters the garage to discover the robots nowhere in 
+2024-08-16 03:47:37,44 38663 log_generator.py 145 log-generator DEBUG HAN
+2024-08-16 03:47:37,60 38663 log_generator.py 145 log-generator DEBUG Biggs! You've picked one up... watch 
+2024-08-16 03:47:37,117 38663 log_generator.py 145 log-generator DEBUG INT. WEDGE'S COCKPIT
+2024-08-16 03:47:37,218 38663 log_generator.py 145 log-generator DEBUG EXT. SURFACE OF THE DEATH STAR
+2024-08-16 03:47:37,292 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:37,375 38663 log_generator.py 145 log-generator DEBUG keys.
+2024-08-16 03:47:37,483 38663 log_generator.py 145 log-generator DEBUG Owen is negotiating with the head Jawa. Luke and the two 
+2024-08-16 03:47:37,573 38663 log_generator.py 145 log-generator DEBUG (yelling)
+2024-08-16 03:47:37,634 38663 log_generator.py 145 log-generator DEBUG along with your father.
+2024-08-16 03:47:37,670 38663 log_generator.py 145 log-generator DEBUG I've got to get aboard. Listen, you'll 
+2024-08-16 03:47:37,712 38663 log_generator.py 145 log-generator DEBUG I'm doing.
+2024-08-16 03:47:37,745 38663 log_generator.py 145 log-generator DEBUG BEN
+2024-08-16 03:47:37,755 38663 log_generator.py 145 log-generator DEBUG out of here! Get away from there...
+2024-08-16 03:47:37,835 38663 log_generator.py 145 log-generator DEBUG Rebel base, three minutes and closing.
+2024-08-16 03:47:37,868 38663 log_generator.py 145 log-generator DEBUG all right. Look, here are Gaffi 
+2024-08-16 03:47:37,946 38663 log_generator.py 145 log-generator DEBUG staring at her with his mouth hanging open.
+2024-08-16 03:47:37,963 38663 log_generator.py 145 log-generator DEBUG belts.
+2024-08-16 03:47:38,31 38663 log_generator.py 145 log-generator DEBUG helmet that looks like it's been through many battles. He 
+2024-08-16 03:47:38,87 38663 log_generator.py 145 log-generator DEBUG INT. DEATH STAR - CONFERENCE ROOM
+2024-08-16 03:47:38,171 38663 log_generator.py 145 log-generator DEBUG off in the direction of the rocky desert mesas. Threepio 
+2024-08-16 03:47:38,305 38663 log_generator.py 145 log-generator DEBUG emerges from the shadows. The sinister Dark Lord stares hard 
+2024-08-16 03:47:38,354 38663 log_generator.py 145 log-generator DEBUG chain reaction. The shaft is ray-
+2024-08-16 03:47:38,467 38663 log_generator.py 145 log-generator DEBUG droids.
+2024-08-16 03:47:38,519 38663 log_generator.py 145 log-generator DEBUG to walk to the new square. A sudden frown crosses Chewbacca's 
+2024-08-16 03:47:38,618 38663 log_generator.py 145 log-generator DEBUG whole event. Chewbacca is confused. Dodonna and several other 
+2024-08-16 03:47:38,620 38663 log_generator.py 145 log-generator DEBUG enough. It's all my fault! My poor 
+2024-08-16 03:47:38,703 38663 log_generator.py 145 log-generator DEBUG EXT. MILLENNIUM FALCON - IN SPACE
+2024-08-16 03:47:38,780 38663 log_generator.py 145 log-generator DEBUG I call it luck.
+2024-08-16 03:47:38,788 38663 log_generator.py 145 log-generator DEBUG IMPERIAL OFFICER
+2024-08-16 03:47:38,862 38663 log_generator.py 145 log-generator DEBUG beep causing Luke to remember something. He looks around.
+2024-08-16 03:47:38,931 38663 log_generator.py 145 log-generator DEBUG going to make the place pay off. He 
+2024-08-16 03:47:38,942 38663 log_generator.py 145 log-generator DEBUG The crewmen lower Artoo-Detoo into the craft. Now a part of 
+2024-08-16 03:47:39,3 38663 log_generator.py 145 log-generator DEBUG erupt in flame. Laserfire erupts from a protruding tower on 
+2024-08-16 03:47:39,72 38663 log_generator.py 145 log-generator DEBUG a huge ugly mouth.
+2024-08-16 03:47:39,90 38663 log_generator.py 145 log-generator DEBUG EXT. TIE FIGHTER - SPACE
+2024-08-16 03:47:39,123 38663 log_generator.py 145 log-generator DEBUG The Millennium Falcon zooms into infinity in less than a 
+2024-08-16 03:47:39,215 38663 log_generator.py 145 log-generator DEBUG MOTTI
+2024-08-16 03:47:39,262 38663 log_generator.py 145 log-generator DEBUG Luke looks into his targeting device. He moves it away for a 
+2024-08-16 03:47:39,318 38663 log_generator.py 145 log-generator DEBUG Ben? Ben Kenobi! Boy, am I glad to 
+2024-08-16 03:47:39,415 38663 log_generator.py 145 log-generator DEBUG EXT. SURFACE OF THE DEATH STAR
+2024-08-16 03:47:39,436 38663 log_generator.py 145 log-generator DEBUG Leia extends a long pipe toward him.
+2024-08-16 03:47:39,449 38663 log_generator.py 145 log-generator DEBUG INT. DEATH STAR
+2024-08-16 03:47:39,477 38663 log_generator.py 145 log-generator DEBUG That's good. You have taken your 
+2024-08-16 03:47:39,552 38663 log_generator.py 145 log-generator DEBUG Dark Lord.
+2024-08-16 03:47:39,585 38663 log_generator.py 145 log-generator DEBUG while others simply mill about. A voice of recognition calls 
+2024-08-16 03:47:39,671 38663 log_generator.py 145 log-generator DEBUG shakes his head and, blinking, tries to clear his eyes.
+2024-08-16 03:47:39,726 38663 log_generator.py 145 log-generator DEBUG before he started today, so he left 
+2024-08-16 03:47:39,820 38663 log_generator.py 145 log-generator DEBUG As the fighters begin to approach the target area, suddenly 
+2024-08-16 03:47:39,862 38663 log_generator.py 145 log-generator DEBUG Maybe someday... I'll keep a lookout.
+2024-08-16 03:47:39,917 38663 log_generator.py 145 log-generator DEBUG The surface of the Death Star ominously approaches the red 
+2024-08-16 03:47:39,959 38663 log_generator.py 145 log-generator DEBUG Sandpeople! Or worst! Come on, let's 
+2024-08-16 03:47:39,975 38663 log_generator.py 145 log-generator DEBUG RED LEADER
+2024-08-16 03:47:40,11 38663 log_generator.py 145 log-generator DEBUG belligerent monstrosity.
+2024-08-16 03:47:40,59 38663 log_generator.py 145 log-generator DEBUG Vader squeezes the neck of the Rebel Officer, who struggles 
+2024-08-16 03:47:40,75 38663 log_generator.py 145 log-generator DEBUG galaxy, and a cunning warrior. I 
+2024-08-16 03:47:40,173 38663 log_generator.py 145 log-generator DEBUG Imperial cruisers fire at the pirateship.
+2024-08-16 03:47:40,269 38663 log_generator.py 145 log-generator DEBUG pop on as he begins beeping. At the far end of the long 
+2024-08-16 03:47:40,337 38663 log_generator.py 145 log-generator DEBUG INT. RED LEADER'S COCKPIT
+2024-08-16 03:47:40,358 38663 log_generator.py 145 log-generator DEBUG don't send one of those twerps. If 
+2024-08-16 03:47:40,379 38663 log_generator.py 145 log-generator DEBUG Where are you taking this... thing?
+2024-08-16 03:47:40,434 38663 log_generator.py 145 log-generator DEBUG than an interpreter, and not very 
+2024-08-16 03:47:40,448 38663 log_generator.py 145 log-generator DEBUG LUKE
+2024-08-16 03:47:40,523 38663 log_generator.py 145 log-generator DEBUG FIRST TROOPER
+2024-08-16 03:47:40,566 38663 log_generator.py 145 log-generator DEBUG anything.
+2024-08-16 03:47:40,627 38663 log_generator.py 145 log-generator DEBUG (to his men)
+2024-08-16 03:47:40,677 38663 log_generator.py 145 log-generator DEBUG Vader's ship spins off into space.
+2024-08-16 03:47:40,770 38663 log_generator.py 145 log-generator DEBUG (over headset)
+2024-08-16 03:47:40,870 38663 log_generator.py 145 log-generator DEBUG LEIA
+2024-08-16 03:47:40,884 38663 log_generator.py 145 log-generator DEBUG are disconnected from the ships as they are fueled. Cockpit 
+2024-08-16 03:47:40,941 38663 log_generator.py 145 log-generator DEBUG Ben gets up and goes to a chest where he rummages around.  
+2024-08-16 03:47:41,87 38663 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:47:41,98 38663 log_generator.py 145 log-generator DEBUG INT. DARTH VADER'S COCKPIT
+2024-08-16 03:47:41,181 38663 log_generator.py 145 log-generator DEBUG might follow old Obi-Wan on some 
+2024-08-16 03:47:41,290 38663 log_generator.py 145 log-generator DEBUG THREEPIO
+2024-08-16 03:47:41,330 38663 log_generator.py 145 log-generator DEBUG INT. LUKE'S X-WING FIGHTER - COCKPIT
+2024-08-16 03:47:41,418 38663 log_generator.py 145 log-generator DEBUG the elevator car takes off through a vacuum tube.
+2024-08-16 03:47:41,443 38663 log_generator.py 145 log-generator DEBUG Han watches her start away. He looks at Luke.
+2024-08-16 03:47:41,449 38663 log_generator.py 145 log-generator DEBUG I expected you would be.
+2024-08-16 03:47:41,455 38663 log_generator.py 145 log-generator DEBUG fighters.
+2024-08-16 03:47:41,473 38663 log_generator.py 145 log-generator DEBUG location of the Rebel fortress by 
+2024-08-16 03:47:41,546 38663 log_generator.py 145 log-generator DEBUG That's impossible! How will the 
+2024-08-16 03:47:41,638 38663 log_generator.py 145 log-generator DEBUG Your fathers lightsaber. This is the 
+2024-08-16 03:47:41,665 38663 log_generator.py 145 log-generator DEBUG want to just wait here to be captured. 
+2024-08-16 03:47:41,672 38663 log_generator.py 145 log-generator DEBUG ship lurches violently, throwing poor Threepio into a cabinet 
+2024-08-16 03:47:41,721 38663 log_generator.py 145 log-generator DEBUG RED TEN: You'd better let her loose.
+2024-08-16 03:47:41,724 38663 log_generator.py 145 log-generator DEBUG INTERCOM VOICE
